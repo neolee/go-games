@@ -1,0 +1,17 @@
+(;AB[pi][qg][re][qe][nf][me][md][nc][ob][qc][rc]AW[pd][qd][rd][sd][nd][qj][oj][oi]
+[ph][pg][pf][ne]C[第111题  黑先
+审题：这是道对杀题，黑棋的问题在于如何宽气。]AP[MultiGo:3.7.0]
+SZ[19]
+;B[pe];W[of];B[oe];W[od]
+(;B[qh]C[不好];W[qi];B[qf];W[sf]C[好手]
+(;B[se];W[rh]C[对杀白胜])
+(;B[rh];W[se];B[sh]C[双活]))
+(;B[rg]C[不好];W[rh]C[好手];B[qh];W[ri];B[sc];W[ng];B[mf];W[se];B[qf];W[sf]C[对杀白胜])
+(;B[rf]C[妙手]
+(;W[rh];B[pc]C[对杀黑胜])
+(;W[se];B[ri]C[宽气的好手];W[rh];B[qh];W[qi];B[rg]
+(;W[sg];B[sh];W[sf];B[rj]C[白死])
+(;W[rj];B[sh];W[sf];B[sg]C[白死]))
+(;W[sg];B[rh];W[ri];B[sc];W[se]
+(;B[pc]C[白死])
+(;B[sf]C[不好];W[qf]C[黑死]))))

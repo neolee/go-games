@@ -1,0 +1,17 @@
+(;AB[qc][qe][pf][qg][rg][qi][oe][od][nd]AW[nc][mc][pc][pd][qf][rf][pg][og]C[第157题  白先
+审题：白方面临的课题是如何救出右方两子。对此，黑棋如进行拼死的抵抗，将出现有趣的结局：一、角上对杀本身就是打劫；二、中腹对杀的结果也是劫。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[pe];B[of];W[re];B[qd];W[qb];B[pb];W[oc];B[rb];W[rc];B[qa];W[rd];B[qb]
+(;W[sb];B[sf];W[ob];B[se];W[ra]C[打劫])
+(;W[nf]C[不好];B[me];W[lf];B[le];W[ke];B[ld];W[kd];B[lc];W[lb];B[kc];W[jc];B[kb]
+;W[mb];B[jb])
+(;W[mf]C[不好];B[me];W[le];B[ng];W[nh];B[mg])
+(;W[mg]C[妙手]
+(;B[mf];W[nf]
+(;B[ne]C[正确];W[me];B[ng];W[nh];B[md];W[ld];B[le]
+(;W[nf]C[打劫];B[me]C[不好];W[ke];B[lf];W[lg]C[白胜])
+(;W[sb]
+(;B[sf]C[不好];W[ob];B[se];W[ra];B[sa];W[nf]C[白活])
+(;B[ke]C[正确];W[ob];B[sf];W[oa];B[sa]C[打劫])))
+(;B[me]C[不好];W[md];B[ne];W[lf]C[白胜]))
+(;B[le];W[me];B[md];W[ld]C[白胜])))

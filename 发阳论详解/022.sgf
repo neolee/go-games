@@ -1,0 +1,19 @@
+(;AW[rd][qd][pe][oe][od][oc][nb][mb][kb][kc][ld]AB[ic][jc][ke][kf][me][md][nf][pf][qe][qg][pd][pc][pb][na][rc][sb]C[第22题  白先
+审题：白棋只有利用黑角的弱点才有希望。次序当然很重要。
+提示：范围虽小，却要留神。同样是打劫，劫的种类却大有区别！所有日本版本中关于此题的解答都犯了错误。]
+;W[ob]C[必争的要点]
+(;B[oa];W[re];B[qf];W[kd];B[jd];W[mc];B[nd];W[jb];B[ib];W[ja];B[la];W[lb];B[ma]
+;W[qc];B[qb];W[pa];B[qa];W[ka];B[pa];W[ra];B[rb];W[sc];B[sd];W[se]C[打劫，但不是正解])
+(;B[mc]C[最好的抵抗手段];W[re];B[qf]
+(;W[rb]C[试应手妙]
+(;B[qb];W[oa];B[jb];W[ra];B[qa];W[qc];B[sa];W[sc];B[sd];W[se]C[打劫])
+(;B[ra];W[ma];B[oa];W[qb]C[白活])
+(;B[qc]C[正应]
+(;W[ma];B[oa];W[qa]
+(;B[rf]C[恶手];W[qb];B[sc];W[sa]C[打劫])
+(;B[sc]C[正确];W[sa];B[ra]C[黑棋有利的缓一气劫，正解]))
+(;W[qa];B[oa]C[好手]
+(;W[sa];B[rf];W[sc];B[se];W[pa];B[sd];W[ma];B[oa];W[qb]C[黑棋有利的缓一气劫])
+(;W[pa]C[大坏棋];B[sa]C[绝妙的鬼手];W[ma];B[oa]C[白死])
+(;W[ma];B[sa];W[qb];B[sc];W[sd];B[rf];W[pa]C[白活]))))
+(;W[ma]C[错误];B[oa];W[rb];B[qb];W[ra];B[qa];W[qc];B[sa];W[rb];B[sc]C[白死])))

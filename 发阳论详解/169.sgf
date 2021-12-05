@@ -1,0 +1,21 @@
+(;AB[rd][qc][pc][od][nc][mc][lc][kc][ib]AW[mb][nb][ob][oc][pd][qe][qf][me][kd]C[第169题  白先
+审题：白棋可以利用的只有对方一处断点。如果直接和黑角对杀，效果不会太理想。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;W[rb]
+(;B[pb]C[不好];W[rc];B[qd];W[pe];B[ne];W[pa];B[qa];W[oa];B[qb];W[re];B[sd];W[ra]
+C[白胜])
+(;B[qb]C[不好];W[re]C[巧手];B[ne];W[sd];B[sc];W[se];B[ra];W[sb];B[rc];W[pa];B[pb]
+;W[oa]C[白胜])
+(;B[rc]C[正应];W[re];B[se]C[妙];W[pa];B[ra];W[qa];B[sb];W[qb];B[pb];W[oa];B[lb]
+C[打劫]))
+(;W[nd];B[oe];W[nf];B[ne];W[md];B[of];W[og];B[ng];W[mf];B[pg];W[oh];B[pf];W[qi]
+;B[qg];W[rg];B[qd]C[白死])
+(;W[qd]C[正确]
+(;B[pb];W[nd];B[oe];W[nf];B[of];W[og];B[ne];W[md];B[ng];W[mf];B[pg];W[oh];B[pf]
+;W[qi]
+(;B[qg];W[rg];B[rh];W[rf];B[qh];W[ri]C[白胜])
+(;B[rh];W[rg];B[qg];W[rf]C[白胜]))
+(;B[oe];W[rc];B[rb];W[sc]
+(;B[sb];W[qb];B[sd];W[rc];B[sc];W[pb];B[rc];W[re]C[白胜])
+(;B[qb];W[re]C[白胜]))))

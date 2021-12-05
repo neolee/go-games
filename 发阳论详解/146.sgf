@@ -1,0 +1,16 @@
+(;AB[lb][qc][qd][qe][rg][ri][ph][nh][mg][lc][ld][oe][ob][oc][if][jg][jh][li][mi]
+AW[jd][kd][hc][kf][kg][me][ne][nd][qj][si][qi][rh][of][pf][pd][od]C[第146题  白先
+审题：相当复杂的对杀局势！白棋要逃，黑棋要断，最后将把战斗扩大到右上角去。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[le];B[je]
+(;W[ke];B[id];W[ic];B[jc];W[kc];B[jb];W[kb];B[ka];W[ib];B[ja];W[qh];B[qg];W[pg]
+;B[og];W[pc];B[pb];W[qb]C[妙手]
+(;B[nc];W[rb];B[rc];W[sc]
+(;B[se]C[正应];W[sd];B[sb];W[sa];B[rd];W[qa];B[pa];W[na];B[mc];W[la];B[ma]
+(;W[nb]C[黑方有利的缓一气劫])
+(;W[qf]C[不好];B[rf];W[sg];B[nb]C[白死]))
+(;B[sd]C[不好];W[qf];B[rf];W[re];B[se];W[sg];B[rd];W[sb];B[qa];W[sh];B[ra];W[sf]
+C[白活]))
+(;B[rb]C[不好];W[nb];B[nc];W[mc];B[mb];W[na];B[md];W[la];B[ma];W[ia]C[白活]))
+(;W[ie]C[不好];B[id];W[he];B[jf];W[ke];B[ic];W[jc];B[ib];W[jb];B[hd];W[qh];B[qg]
+;W[pg];B[og];W[pc];B[pb];W[qb];B[rb]C[白死]))

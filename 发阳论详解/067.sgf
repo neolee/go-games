@@ -1,0 +1,5 @@
+(;C[第67题  白先
+审题：白棋在角上的几个子总是死了。问题在于最有效地运用它们。]AW[sa][sb][sc][sd][se][rb][pc][oc][nc][nb][oe][pf][qf][oh][pi][ri]AB[ra][qb][pb][ob][qd][re][sf][rg][qg]
+;W[rf];B[sg];W[qc];B[rc];W[qa];B[rd]
+(;W[ra];B[pa];W[ra];B[rb];W[se];B[sd];W[sb]C[黑死])
+(;W[oa]C[不好];B[ra]C[黑活]))

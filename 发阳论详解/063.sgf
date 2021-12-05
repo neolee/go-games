@@ -1,0 +1,7 @@
+(;C[第63题  白先
+审题：本题的变化很简单。这样的题在《发阳论》中没有几道！基本图是后人对原作图进行修改的结果。目前流传与世的各种版本都以此图为准。
+提示：利用“弃子滚包”破眼。]AB[qa][qb][qc][pc][oc][nd][pe][oe][rd]AW[rb][pa][nb][nc][lc][me][nf][og][qg][rf][re][pd]
+
+(;W[rc]C[好手];B[sd];W[qd];B[qe];W[se];B[od];W[qd];B[pd];W[sc];B[qd];W[sb]C[黑死])
+(;W[sd]C[恶手];B[rc];W[sc];B[sb];W[sa];B[ra]C[黑活])
+(;W[qd]C[错误];B[rc];W[qe];B[sb];W[sd];B[ra]C[黑活]))

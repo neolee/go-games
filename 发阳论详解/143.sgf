@@ -1,0 +1,9 @@
+(;AB[rb][qa][pb][pc][qd][rd][pf][ne][mc][lc]AW[oa][ob][pa][oc][od][pd][og][pg][qg]
+C[第143题  白先
+审题：白棋利用角的特殊性能，可以制造出“借劫生波”的机会。]AP[MultiGo:3.7.0]
+SZ[19]
+;W[of];B[oe];W[pe];B[qf];W[qe];B[rf];W[re];B[se];W[rg];B[sf];W[sb]C[巧手]
+(;B[sd];W[ra];B[qb];W[rc]C[打劫])
+(;B[ra]C[错误];W[sd];B[sc];W[sg]C[白活])
+(;B[rc];W[ra]C[打劫])
+(;B[qc]C[正确];W[ra];B[sa]C[打劫（黑方有利的两手劫）]))

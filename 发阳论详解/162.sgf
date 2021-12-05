@@ -1,0 +1,24 @@
+(;AB[qb][qc][rc][pc][od][pe][rh][ri][pi][oh][ng]AW[pb][qf][qg][qd][ob][nc][me][nd]
+[oe][rd]C[第162题  黑先
+审题：黑棋应该借对杀紧气的威胁，设法从右边渡过。
+提示：第一着只有在A位粘。]
+LB[pd:A]AP[MultiGo:3.7.0]SZ[19]
+
+(;B[of]C[不好];W[pd];B[oc];W[ne];B[pf];W[qe];B[sd];W[se];B[sc];W[ra];B[sf];W[re]
+;B[pa];W[nb];B[rb];W[sa];B[rg];W[oa]C[白胜])
+(;B[pd]C[正着];W[of]
+(;B[pf]C[不好];W[pg];B[og];W[qe];B[sd];W[se];B[sc];W[sb];B[sf];W[re];B[rg];W[qa]
+C[白胜])
+(;B[sf]C[不好];W[re];B[pf];W[pg];B[og];W[sb];B[sc];W[qa];B[ra];W[pa];B[rg];W[oc]
+C[白胜])
+(;B[qe]C[不好];W[re];B[rf];W[rg];B[pf];W[pg];B[og];W[sf]
+(;B[sd]
+(;W[sh];B[si];W[sb];B[sc];W[se]C[打劫])
+(;W[sb]C[不好];B[sc];W[qa];B[ra];W[pa];B[sh]C[黑胜]))
+(;B[sh];W[sd];B[sg];W[sb]
+(;B[ph];W[sc];B[rb];W[oc]C[白胜])
+(;B[sc];W[qa]C[白胜])))
+(;B[se]C[妙手];W[re];B[rg]
+(;W[pf];B[rf]C[黑活])
+(;W[rf];B[sf];W[sd];B[pf];W[pg];B[og];W[sg];B[sf];W[sb];B[sc];W[qa];B[ra];W[pa]
+;B[ph];W[oc];B[qh]C[黑胜]))))

@@ -1,0 +1,21 @@
+(;AB[rd][pd][oe][of][pf][og][nh][ph][pi][rh][rj]AW[ri][qg][qf][qe][mc][oc][ni][oi]
+[oh][pg]C[第167题  白先
+审题：白棋唯一的出路是和中腹的黑棋对杀。这不但需要精密的次序和高超的技艺，丰富的想象力也很重要！条件多一半要靠人去创造。
+提示：利用滚打手法可以防止被征。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[qd];B[qc];W[pc];B[rc];W[od];B[pe];W[mf];B[ng]
+(;W[lh]C[不好];B[qh]C[白死])
+(;W[mh];B[mg]
+(;W[lg]C[不好];B[mi];W[lh];B[nj];W[qj];B[pj];W[qh];B[qi]C[白死])
+(;W[qj]C[绝妙]
+(;B[pj]
+(;W[qh]
+(;B[qi];W[pk]
+(;B[qk];W[oj];B[si];W[lg];B[mi];W[lh];B[ok];W[nj]C[白胜])
+(;B[oj];W[nj];B[ok];W[lg]C[白胜]))
+(;B[qk];W[qi];B[pk];W[rk]C[白活]))
+(;W[pk]C[大恶手];B[qh];W[oj];B[mi];W[rg];B[ok];W[nj];B[qk];W[pl];B[qi]C[白死]))
+(;B[qi];W[lg];B[mi];W[lh];B[nj];W[oj];B[ok];W[pj]C[白胜]))
+(;W[qh]C[俗手]
+(;B[qj];W[rg];B[re];W[pj];B[qi];W[lg];B[mi];W[lh];B[nj]C[白死])
+(;B[qi]C[不好];W[qj];B[pj];W[pk]C[白胜]))))

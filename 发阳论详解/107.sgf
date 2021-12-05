@@ -1,0 +1,13 @@
+(;AB[ld][me][mg][ng][og][rg][qg][pf][pd][qd][qb][lc][mb]AW[mc][md][ob][pc][od][qh][pg][ph][oi][oe][kf][lh][mi]C[第107题  白先
+审题：白棋要想在对杀中取胜，必须利用黑棋气紧的弱点。
+提示：要有意识地制造“金鸡独立”]SZ[19]
+
+(;W[of]C[错误];B[qc];W[le];B[ne];W[oa];B[nd];W[nc];B[nb];W[oc];B[pe];W[lg];B[pa]C[黑杀白]
+)
+(;W[qc]C[正着];B[rc];W[of];B[re];W[le];B[ne]
+(;W[nd]C[不好];B[nb]
+(;W[oa];B[oc];W[nc];B[pe];W[rb];B[ra];W[lb];B[kb];W[lg];B[la];W[nh];B[na]C[黑杀白])
+(;W[oc];B[oa];W[pa]
+(;B[pe]C[不好];W[na];B[rb];W[lb];B[kb];W[lg];B[pb];W[nh]C[白杀黑])
+(;B[ma]C[强手];W[rb];B[ra];W[lb];B[kb];W[lg];B[pe];W[nh];B[nf];W[mh];B[nc]C[打劫])))
+(;W[oa]C[正着];B[nb];W[oc];B[pe];W[rb];B[ra];W[lb];B[kb];W[lg]C[白杀黑，正解])))

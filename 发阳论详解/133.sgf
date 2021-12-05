@@ -1,0 +1,12 @@
+(;AB[sd][rd][qd][qe][qf][oe][nf][nd][ld][le][lg][mh][ni][ph][rj][qi][pk]AW[pl][ql]
+[qk][re][rf][rh][qg][pg][ng][me][mc][nc][oc][qc][rc]C[第133题 白先
+审题：黑棋上、下两方的包围网都存在弱点。白棋只要次序不走错就能成功。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;W[md]C[坏棋];B[mf];W[pe];B[pd];W[ne];B[of]C[白死])
+(;W[og]C[正着]
+(;B[mf];W[qj];B[ri];W[pi]C[白活])
+(;B[pj];W[pe]C[妙手]
+(;B[pf];W[of];B[pd];W[md]C[白活])
+(;B[od];W[md];B[mf];W[of];B[ne];W[pd]C[白活])
+(;B[pd];W[od];B[pf];W[mf]C[白活]))))

@@ -1,0 +1,8 @@
+(;C[第76题  白先
+审题：这是一道全局性的趣题。作者的构想力令人十分敬佩。题目的内容是，黑棋到处都在提子，可是又到处遭到白棋“倒脱靴”式的顽强抵抗。最后，在全局各处游行了一圈的黑棋竟然惨遭覆灭。]AW[aa][ba][ca][bb][ab][ac][cc][dc][dd][cd][be][bf][ag][ai][aj][aq][ar][as][bs][br][bo][bj][bi][ch][cn][cp][cr][cs][ds][dq][dp][dm][dl][di][dh][ee][ef][ek][es][fs][gs][fr][gr][hs][ir][lr][pq][rp][np][mp][kp][jp][ip][go][fn][gm][gk][im][jm][km][mm][oo][on][qn][rn][sm][sl][sk][sj][si][ri][rj][rk][rl][qk][pl][ol][oj][nk][mk][lk][kk][jk][ll][lj][ij][il][ki][kh][lg][mh][mi][jg][ih][hg][ie][id][hc][gc][ha][ia][ja][jb][jc][kc][kb][mc][mb][ma][ld][ke][me][nd][pa][oa][pc][qc][rb][ra][sa][sb][sc][sd][re][rf][rg][sg][qh][ph][pf][ff][fh]AB[ad][bd][bc][cf][de][ed][fd][fb][fa][ga][gb][hd][ic][ge][gf][fg][ei][ej][gj][dk][ck][cj][ci][el][ak][ap][bp][cq][dr][er][eq][fq][gq][hq][hr][is][js][kq][lp][lo][ln][lm][jl][ik][jj][kj][mj][li][nj][nl][nm][ok][nh][nf][oe][oc][pd][qd][rd][rc][se][rh][qi][qj][rm][sn][ql][ka][lb][lc][kd][jd]
+;W[bq];B[cq];W[cr];B[kr];W[jr];B[mr];W[lq];B[mq];W[or];B[ls];W[lq];B[ml];W[mn]
+;B[kl];W[lk];B[ll];W[lj];B[pk];W[pj];B[sh];W[rk];B[qk];W[ri];B[rj];W[sj];B[ni]
+;W[oh];B[mg];W[lh];B[pb];W[qb];B[qa];W[qb];B[hk];W[hj];B[gl];W[fk];B[fl];W[hl]
+;B[fj];W[dj];B[bk];W[bm];B[eh];W[eg];B[gg];W[gh];B[dg];W[cg];B[bh];W[bg];B[ah]
+;W[bi];B[fe];W[df];B[dg];W[ef];B[df];W[eg];B[da];W[db];B[cb];W[bb];B[hb];W[ib]
+;B[ic];W[ib];B[jc];W[jb];B[gd];W[je];B[fc];W[hc];B[gc];W[kb];B[kc];W[la]C[黑死，正解])

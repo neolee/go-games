@@ -1,0 +1,13 @@
+(;AB[ni][pi][oi][qi][rg][qg][oe][od][ob][pc][qb][ra]AW[rb][qc][qd][pd][pf][pg][ri]
+[rk][qk][ok][mj][mi][mg][nh]C[第126题  黑先
+审题：黑棋似已面临绝境？但是，如果能运用完美的次序逼迫白棋暴露出“气紧”的弱点，黑棋意外地还可一博！
+提示：这道题只有放在角上才能成立。如果下移一路就全完了。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;B[og];W[oh];B[ph];W[of];B[nf];W[ng];B[sd]C[绝妙之手]
+(;W[rc]C[不好];B[pe];W[qf];B[qe];W[rf];B[sf];W[re];B[rd]C[黑活])
+(;W[rd]C[不好];B[re];W[qf];B[sb]C[黑活])
+(;W[re]C[正应];B[se]
+(;W[sc];B[sb];W[rc];B[pe];W[qf];B[qe];W[rf];B[sf];W[sa]C[打劫，正解])
+(;W[rc];B[pe];W[qf];B[qe];W[rf];B[sf];W[sc];B[sb]C[打劫])))
+(;B[pe]C[不好];W[qf];B[qe];W[rf]C[黑死]))

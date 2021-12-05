@@ -1,0 +1,13 @@
+(;AB[oc][nd][me][jc][kc][ic][ie][je][kf]AW[qc][pd][qe][mc][lc][ld][kd][jf]C[第130题  白先
+审题：白棋可以利用对方气紧的弱点而向右上角渡过。黑如反抗，白方要有毫不客气地反吃黑棋的思想准备。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[lf]
+(;B[le];W[ke];B[kg];W[ob];B[pb];W[nb];B[pc];W[ne]C[好手];B[nf];W[oe];B[md];W[pa]
+;B[qb];W[rb]
+(;B[mf];W[qa]C[白活])
+(;B[qa];W[od]C[白活]))
+(;B[mf];W[kg];B[ke];W[le];B[lg];W[mg];B[lh];W[ob];B[pb];W[nb];B[pc];W[qb]
+(;B[oa];W[nf];B[ne];W[of];B[ng];W[mh];B[og];W[pg]C[白杀黑])
+(;B[pa];W[nf];B[ng];W[ne];B[md];W[od];B[nc];W[mh];B[oe]
+(;W[li];B[kh];W[of]C[白杀黑])
+(;W[of]C[不好];B[og];W[pf];B[mi]C[白死]))))

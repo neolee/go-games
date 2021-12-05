@@ -1,0 +1,22 @@
+(;AB[nh][ng][of][lc][mc][nd][od][pd][rd][qb][rb][ni][pi]AW[qe][qf][qh][pc][pb][nc]
+[nj][mi][mh][mg][nb][md][me][mf]C[第149题  白先
+审题：白棋唯一的出路是和中央的黑棋进行对杀。要注意“次序”。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[qd];B[qc]
+(;W[oe]
+(;B[ne];W[nf];B[pe];W[og];B[pg];W[pf];B[oh];W[oc]C[白活])
+(;B[pe];W[pf];B[ne]
+(;W[nf]C[不好];B[og];W[oc];B[oe];W[oi];B[oj];W[ok];B[oh];W[pk];B[qi]C[白死])
+(;W[oi]C[好手]
+(;B[oh];W[nf];B[og];W[oc];B[oe];W[oj];B[ph]
+(;W[pj]C[不好];B[qi];W[qj];B[ri];W[rh];B[rk];W[rj];B[sj]C[白死])
+(;W[qi]C[不好];B[pj];W[pk];B[qj];W[qk];B[rj]
+(;W[rk];B[rh];W[qg];B[ri];W[rg];B[re]C[白死])
+(;W[ri];B[rk];W[rl];B[rm];W[qm];B[sl];W[ql];B[rn];W[sm];B[sk];W[qo];B[ro];W[qp]
+;B[rp];W[qq];B[rq];W[rr];B[sr];W[qr];B[rg];W[qg];B[re];W[rf];B[oa]C[白死]))
+(;W[qj]C[正确];B[qi];W[ri];B[rh];W[pj]C[白胜]))
+(;B[oj];W[og]
+(;B[oh];W[nf];B[pg];W[oc]C[白活])
+(;B[pg];W[nf];B[oh];W[oc]C[白活]))
+(;B[ph];W[og]C[白活]))))
+(;W[oi]C[不好];B[oe];W[oh];B[og];W[pg];B[oc];W[ob];B[mb]C[白死]))

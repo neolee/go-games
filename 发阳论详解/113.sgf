@@ -1,0 +1,10 @@
+(;AB[qc][pb][pd][qe][qg][of][ne][od]AW[qd][rd][pc][oc][ob][nd][mc][me]C[第113题 黑先
+审题：告诉你黑方先走可杀白。答起题来是不是就会容易发现正解的奥秘？]
+AP[MultiGo:3.7.0]SZ[19]
+;B[rc];W[re]
+(;B[qf]C[恶手];W[rb];B[qb];W[sc]C[黑死])
+(;B[rf]C[正确];W[pe];B[oe];W[qf]
+(;B[pf]C[不好])
+(;B[sf]C[绝妙]
+(;W[rb];B[sd];W[qb];B[sc]C[白死])
+(;W[rg];B[pf];W[rb];B[qb];W[sc];B[sd]C[白死]))))

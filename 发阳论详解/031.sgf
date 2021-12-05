@@ -1,0 +1,20 @@
+(;C[第31题  白先
+审题：如何杀死黑角？白不逃死子黑棋要活；白逃死子黑威胁要吃“接不归”。有没有两全其美的办法呢？]AW[qb][rd][qe][pf][qh][ne][nd][nb][ob][ld]AB[kd][oc][od][pb][pd][rb][rc]SZ[19]
+
+(;W[pa]C[不好];B[qc];W[qa];B[oa];W[na];B[nc];W[mb];B[mc];W[lc];B[ra]C[打劫])
+(;W[qa]C[好手]
+(;B[qc];W[oa]C[好手];B[nc];W[mb];B[of];W[nf];B[og];W[oe];B[pe];W[pg]C[黑死])
+(;B[qd]
+(;W[re]C[不好];B[nc];W[mb];B[mc];W[lc];B[oa];W[qc]
+(;B[sb];W[pa];B[ra];W[na];B[pc]C[黑活])
+(;B[pc]C[恶手];W[sc];B[sb];W[ra];B[sd];W[pa];B[sa];W[qa]C[黑死])
+(;B[pa]C[不好];W[sb];B[sc];W[ra]C[打劫]))
+(;W[oa]C[妙];B[nc];W[mb];B[re];W[rf];B[sd];W[qc];B[mc];W[lc];B[md];W[me];B[le];W[kc]
+;B[of];W[ng];B[oe];W[og]C[黑死])))
+(;W[qc]C[不好];B[qd];W[pa];B[pc];W[ra];B[nc];W[mc]
+(;B[re]C[不好]
+(;W[qa];B[rf];W[qg];B[sd];W[sb]C[黑死])
+(;W[rf]C[不好];B[sc];W[lb];B[sa]C[打劫]))
+(;B[sc]C[鬼手]
+(;W[re];B[sa]C[打劫])
+(;W[oe];B[qa];W[qb];B[sa]C[打劫]))))

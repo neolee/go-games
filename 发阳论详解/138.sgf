@@ -1,0 +1,16 @@
+(;AB[jh][me][qd][pc][pe][pf][og][ph][qh][qk][ok][ol][mk][li][lh][lg][mf]AW[nc][kc]
+[hc][kf][lf][qi][pi][mi][oh][mg][ng][nf][of]C[第138题  黑先
+审题：黑棋上边二子如能逃出，白中央一队人马将自然死去！
+提示：黑二子只要能先手宽成四气，就可以施展擒拿妙手了！]
+AP[MultiGo:3.7.0]SZ[19]
+;B[nd]C[只此一手];W[pg];B[qg];W[od];B[mc];W[oc];B[oe];W[ne];B[md];W[mb];B[lb];W[nb]
+(;B[lc]C[不好];W[kb];B[kd];W[jd];B[la];W[le];B[pd];W[ld]C[黑死])
+(;B[kd]C[好手]
+(;W[jd];B[kb];W[jc];B[lc];W[jb]
+(;B[pd]C[不好]
+(;W[le]C[不好];B[ma];W[pb];B[na];W[ob];B[qb]C[黑胜])
+(;W[pb]C[正确];B[qb];W[oa];B[qa];W[pa]
+(;B[ma];W[le]C[白胜])
+(;B[ke];W[jf];B[le];W[ma];B[je];W[ie];B[if];W[ig];B[hf];W[jg];B[hh];W[ka]C[白胜])))
+(;B[oi]C[妙手];W[oj];B[nh];W[ni];B[mh]C[黑胜]))
+(;W[ld];B[le];W[lc];B[ke]C[黑胜])))

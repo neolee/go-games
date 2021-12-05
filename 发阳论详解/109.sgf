@@ -1,0 +1,18 @@
+(;AB[rf][re][jb][kc][me][ne][pd][od][oc][ob][rb][ra][rg][rh]AW[qj][qh][qg][qf][oe]
+[oh][mc][nd][pa][pc][qd][qc][rc][sb]C[第109题  黑先
+审题：本题很简单。中心目的是要考一考黑棋能否下得出一着“愚形的妙手”。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[qe];W[pe]
+(;B[oa]C[不好];W[pb]C[白杀黑])
+(;B[pb]C[正确];W[qb];B[oa];W[qa];B[nf]
+(;W[og]
+(;B[ma]C[恶手];W[lb];B[la];W[ka];B[kb];W[na];B[nb];W[mb])
+(;B[mb]C[不好];W[nb]C[白杀黑])
+(;B[lb]C[不好];W[nb]C[白杀黑])
+(;B[na]C[妙手]
+(;W[lb];B[nc];W[md];B[mb];W[lc];B[ld]C[黑杀白，正解])
+(;W[ma];B[mb];W[lb];B[la];W[ka]
+(;B[md];W[nc];B[lc]C[黑杀白])
+(;B[lc]C[不好];W[ma]C[打劫]))))
+(;W[of];B[og];W[pf];B[na];W[lb];B[nc];W[md];B[mb];W[lc];B[ld];W[le];B[kd];W[ng]
+;B[mf]C[黑杀白])))

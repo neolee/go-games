@@ -1,0 +1,16 @@
+(;AB[rc][qd][qg][of][nd][md][lc][kc][kb]AW[lb][mb][mc][oc][qc]C[第2题：白先
+【审题】《发阳论》中题目的最大特点是：棋形散乱，实战性强。故此，许多题目往往要靠解题者自己去分析、判断、整理，然后才能进入通常的解题过程。本题已经有了点这种“额外的”工作量。
+〖提示〗最大限度地扩大生存空间，是白棋得以成功的唯一秘诀。]
+SZ[19]
+;W[qb]C[正着]
+(;B[pd]C[不好];W[rb]C[白很容易做活])
+(;B[rb];W[pd];B[qe]
+(;W[oa]C[错误];B[qa];W[pa];B[pc];W[pb];B[nb];W[nc];B[od]C[白被净杀])
+(;W[ob]C[错误];B[nc];W[nb];B[qa];W[pa];B[pc];W[pb];B[od]C[白被净杀])
+(;W[nc]C[错误];B[la];W[ob];B[qa];W[pa];B[na];W[ma];B[pc];W[pb];B[od]C[白被净杀])
+(;W[la]C[错误];B[qa];W[pa];B[na]
+(;W[od];B[pb];W[ra];B[nb];W[nc];B[ob];W[pc];B[oa]C[白被净杀])
+(;W[nb];B[od];W[oa];B[pb];W[pc];B[ob];W[pa];B[oa];W[ma];B[pa];W[ra];B[oa]C[白被净杀]))
+(;W[qa]C[做成活棋的唯一巧手];B[la];W[oa]
+(;B[ma];W[pb]C[白活，正解])
+(;B[pb];W[ma];B[nb];W[nc];B[ob];W[pc]C[双活]))))

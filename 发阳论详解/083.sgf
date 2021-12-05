@@ -1,0 +1,19 @@
+(;C[第83题 黑先
+审题：黑棋的外势毫无缺陷。现在面临的问题是如何杀角。白棋的形状意外地富有弹性，黑方千万不要一厢情愿地发动进攻！
+提示：要防止白棋利用弃子成活。]AB[pc][oc][ob][pe][pf][ph][oh][qi][rh]AW[qg][qf][qe][qd][qb][pb]
+(;B[se]C[错误]
+(;W[sd];B[rd];W[rc];B[sc];W[sb];B[qc];W[rb];B[sf];W[re]C[白活])
+(;W[rc]C[不好];B[sd]C[白死]))
+(;B[qc];W[rc]
+(;B[rb]C[不好];W[ra];B[sb];W[sc];B[pa]
+(;W[sa]C[不好];B[se]C[黑死])
+(;W[se]C[绝妙];B[qa];W[rd]C[白活]))
+(;B[sb]C[好手]
+(;W[rb]C[错误];B[se];W[sd];B[sf];W[pa];B[ra]C[白死])
+(;W[ra]C[正着]
+(;B[pa]C[不好];W[se]C[白活])
+(;B[se]
+(;W[sf];B[rf];W[rg];B[sg];W[re];B[sf]
+(;W[pa];B[sc];W[sd]C[打劫])
+(;W[sd]C[不好];B[sh];W[pa];B[rb]C[白死]))
+(;W[sd]C[恶手];B[sf];W[pa];B[rb]C[白死]))))))

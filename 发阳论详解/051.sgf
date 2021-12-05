@@ -1,0 +1,23 @@
+(;C[第51题 黑先
+审题：本题的难度不大，实战价值不小，值得记忆。
+提示：黑方必须击中“形”的要害。]AW[qd][rd][oc][nd]AB[pe][qe][re][of][me][md][mc][kc]
+(;B[rb]C[错误];W[pd];B[pb];W[ob];B[rc];W[sc];B[sb];W[sd];B[qc];W[qa];B[pa];W[ra]C[白活]
+)
+(;B[pd]C[正确]
+(;W[qb]
+(;B[sb]C[妙];W[rc];B[pc];W[pb];B[nb];W[ob];B[oa]C[白死])
+(;B[pc]C[不好];W[pb];B[nb];W[sb];B[ra];W[sd]C[白活]))
+(;W[pc];B[rb]C[好手];W[qc]
+(;B[sd]C[不好];W[sc];B[se];W[rc];B[nb];W[ra]C[妙手]
+(;B[sb];W[ob];B[oa];W[pa];B[qb];W[na]C[白活])
+(;B[qa];W[sb]C[白活]))
+(;B[nb]C[正确];W[ob]
+(;B[qb]
+(;W[se];B[sf];W[sd];B[oa];W[pa];B[na];W[pb];B[ra];W[sb];B[rc];W[rf];B[rh]C[白死])
+(;W[sb];B[sd];W[sc];B[se];W[rc];B[ra]C[白死])
+(;W[ra];B[sb]
+(;W[sc];B[rc];W[sd];B[oa];W[pa];B[na]C[白死])
+(;W[sd];B[oa];W[pa];B[na];W[pb];B[rc]C[白死])))
+(;B[sd]C[错误];W[sc];B[se];W[rc];B[qb];W[ra]C[妙手]
+(;B[sb];W[pa];B[na];W[oa]C[白活])
+(;B[qa];W[sb];B[sa];W[oa]C[松气的“万年劫”]))))))

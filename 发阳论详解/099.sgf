@@ -1,0 +1,17 @@
+(;AB[qb][qc][qd][qe][oc][md][me][mf][ld][kf][ib][gc]AW[ph][of][od][nd][mc][pc][pb]
+[le][ng][mh][kh][jg][ie][je][jc]C[第99题  黑先
+审题：黑棋只有一只后手眼，就地做活是不可能的了。唯一的希望在于：白棋右边一块棋的联络似乎不够完整。]
+;B[lc]
+(;W[kb];B[lb];W[ka];B[nc]
+(;W[nb];B[mb];W[ob];B[oe];W[ne];B[nf];W[pe]
+(;B[pf]C[绝妙]
+(;W[og];B[pd];W[mc];B[oe]C[打劫])
+(;W[pg];B[pd];W[mc];B[oe]C[打劫])
+(;W[pd];B[og]C[打劫]))
+(;B[pd]C[不好];W[mc];B[pf];W[oe];B[og];W[pg]C[黑死]))
+(;W[pd];B[oa];W[pa];B[ob]C[黑活]))
+(;W[jb];B[kb];W[ja];B[mb]
+(;W[nc];B[nb];W[ob];B[na]
+(;W[ke];B[pd];W[oa];B[oe];W[ne];B[nf];W[pe];B[qa]C[黑活])
+(;W[oa];B[ke];W[la];B[ka];W[lb];B[ma];W[lb];B[kc];W[la];B[mb]C[黑活]))
+(;W[nb];B[nc];W[ob];B[oe];W[ne];B[nf];W[pe];B[pf];W[og];B[pd];W[mc];B[oe]C[打劫])))

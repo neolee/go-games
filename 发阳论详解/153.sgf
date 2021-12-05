@@ -1,0 +1,20 @@
+(;AB[lc][lb][mc][me][md][qd][pd][oe][of][nf][lh][mi][nj][oj][pj][rj][qi]AW[nd][ne]
+[mb][jb][jc][kd][lf][nh][oi][nc][oc][pc][qe][re][rd][rb][pi][qh]C[第153题 黑先
+审题：黑棋本身眼位不足，只有与右上角的白棋对杀。弃掉上边的五个黑子而在A位连回半截的设想，根本就不应该予以考虑。
+提示：如果能够逼迫白棋不带外气地从右边一路上逃回角部，黑棋就有了希望。]
+LB[mg:A]AP[MultiGo:3.7.0]SZ[19]
+;B[mf];W[lg];B[mg];W[mh];B[qg]C[好手];W[pg];B[pf]
+(;W[rg];B[qf];W[ri];B[qj];W[ph];B[rf];W[sf];B[ni];W[oh];B[qc];W[qb];B[rc];W[sc]
+;B[si];W[rh];B[sb];W[sa];B[sg];W[sh];B[sj];W[sd];B[ng];W[se];B[og];W[sg];B[pe];W[sb]
+(;B[pa]C[绝妙]
+(;W[pb];B[nb]
+(;W[oa];B[qa]C[黑胜])
+(;W[qa];B[oa]C[黑胜]))
+(;W[ob];B[qa];W[oa];B[ma]C[黑胜])
+(;W[oa];B[qa]C[黑胜]))
+(;B[nb]C[不好];W[ob];B[ma];W[oa]C[黑死]))
+(;W[qf];B[rg];W[rh];B[oh]C[妙]
+(;W[ni];B[ph];W[og];B[ph]
+(;W[sg];B[ng]C[黑活])
+(;W[li];B[ng]C[黑活]))
+(;W[ph];B[ni]C[黑活])))

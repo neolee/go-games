@@ -1,0 +1,16 @@
+(;AB[qe][qd][pd][nf][of][pf][pg][qg][qh][qi][qj][qk][pj][oj][in][jo][lr][lo][no]
+[lm][mm][kl][om][pm][qm][qo][rp][qq][qr][nj][oq][jq][hq][ip][go][fq][cr][cq][bq]
+[do][eo][en][em][el][cl][ck][fk][rc][ea][db][dc][cd][ce][cf][cg][ej][dj][gh][fh]
+[bg][fc][fe][gc]AW[co][dn][dm][bm][dk][ek][cj][bi][ci][di][eh][dg][df][de][dd][rb]
+[cp][bp][aq][br][fr][gr][gq][gp][hp][jp][kp][kq][kr][nr][or][rr][dp][pl][ql][rl]
+[rk][qf][rf][so][pn][po][pp][pq][pr][qs][bd][ed][ec][eb][qb][qc][pc][oc][od][md]
+[me][lf][jd][lh][mi][oi][ph][og][mj][nk][ol]C[第131题  白先
+审题：战斗从白棋攻击右上一队黑子开始，逐渐波及全局。白棋几乎绕着棋盘逃了整整一周！所到之处，白棋都依靠一路上的妙手维持着脆弱的联系，这是非常有趣的情景。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[sc];B[rd];W[sf];B[rg];W[sd];B[sg];W[se];B[nh];W[oh];B[mk];W[ml];B[lk];W[sm];B[lg]
+;W[kg];B[mg];W[jh];B[ni];W[si];B[ri];W[sh];B[rj];W[sj];B[nm];W[nl];B[qn];W[sp];B[rq]
+;W[sq];B[rs];W[ss];B[ps];W[os];B[mq];W[ks];B[mr];W[ms];B[nq];W[ls];B[ir];W[is];B[hs]
+;W[hr];B[js];W[jr];B[iq];W[gs];B[io];W[is];B[eq];W[es];B[er];W[cs];B[dq];W[ds];B[bl]
+;W[al];B[bk];W[ak];B[cm];W[cn];B[dl];W[aj];B[ff];W[cc];B[cb];W[bc];B[bb];W[ab];B[be]
+;W[ba];B[ad];W[da];B[ac];W[ga];B[hb];W[ha];B[jb];W[ja];B[kb];W[ka];B[lb];W[la];B[mb]
+;W[ma];B[nb];W[na];B[ob];W[oa]C[白胜])

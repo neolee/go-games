@@ -1,0 +1,23 @@
+(;AB[qa][pa][pb][oc][nc][mc][ne][mf][pg][nh][lh][kg][jg][kc][jc][jb][je][he]AW[lc]
+[lb][kb][mb][nb][hc][gd][ge][gf][ld][lf][qf][pe][pd][qc][qb][ra][hf]C[第134题 白先
+审题：本题从图形结构到解题手法都与前图相差不远，但白棋的第一着要注意，小心误入歧途!]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;W[kd]C[不好];B[jd];W[md];B[oe];W[me];B[ke];W[nf];B[of];W[mg];B[mh]C[白死])
+(;W[me]C[不好]
+(;B[nf]C[不好];W[md];B[nd];W[kd];B[jd];W[kf]C[妙];B[ke];W[jf]C[对杀白快一气])
+(;B[md]C[正应];W[ke];B[jd];W[nf]
+(;B[le]C[打劫])
+(;B[mg]C[不好];W[le]C[白活])))
+(;W[ke]C[不好];B[kd];W[me];B[nf];W[id];B[jd];W[jf];B[kf];W[if];B[le]C[打劫])
+(;W[le]C[正解]
+(;B[ke]
+(;W[nd]
+(;B[od];W[nf];B[me];W[mg];B[ng];W[md];B[oe];W[ob]C[白活])
+(;B[md];W[me];B[od];W[nf];B[of];W[oe];B[ng];W[ob]C[白活]))
+(;W[nf]C[不好];B[me];W[nd];B[md];W[mg];B[ng]C[白死]))
+(;B[me];W[jd]
+(;B[kd];W[jf]
+(;B[if];W[id];B[ke];W[kf]C[白活])
+(;B[kf];W[ke];B[if];W[id]C[白活]))
+(;B[id];W[kd];B[ic];W[if]C[白活]))))

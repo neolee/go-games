@@ -1,0 +1,27 @@
+(;C[第53题  黑先
+审题：黑棋在外围存有断点，似乎不怎么干净。黑方能不能让右边“超目外”位置上的那个子发挥作用呢》
+提示：运用弃子手法，置对方于“虽吃到子却不能活棋”的处境。]AW[nb][md][lb][kc][jc][ic]AB[ob][nc][nd][qf][me][le][kd][kf][ie][hd][fc][ed]
+
+(;B[mb]C[错误];W[gb];B[fb];W[hc]C[白活])
+(;B[hb]C[正确];W[mc]
+(;B[ld]C[不好];W[ka]C[妙手];B[ib];W[jb];B[na];W[ma]C[打劫])
+(;B[ma]C[防白做劫的强手];W[na];B[mb]C[妙];W[la]
+(;B[mb]C[势所必然];W[ma];B[ld];W[lc];B[ja];W[jb];B[ka];W[ib];B[ia];W[hc];B[gb];W[gc];B[eb]
+;W[gd];B[ge]
+(;W[oc]
+(;B[pb]C[不好]
+(;W[qc]C[不好];B[pc];W[od];B[ne];W[pd]
+(;B[qd]C[恶手];W[qb];B[pe];W[pa];B[oe];W[oa];B[rc];W[rb];B[rd];W[sb]C[白活])
+(;B[qb]C[正应];W[rc];B[rb];W[qd];B[sb];W[oa];B[qe];W[sc];B[oe]C[白死]))
+(;W[pc]C[好手];B[qc];W[pd]C[妙]
+(;B[oe];W[qd];B[rc];W[rd];B[rb];W[pa]C[白杀黑])
+(;B[od];W[qb];B[rb];W[rd];B[qa];W[rc]
+(;B[pe];W[qd];B[qb];W[sb];B[qe];W[oa];B[sa]C[打劫])
+(;B[sb];W[qd];B[qb];W[oa];B[pe];W[rf]C[对杀于黑不利]))))
+(;B[pc]C[妙手];W[od];B[ne]
+(;W[pd];B[qc];W[qd];B[rd];W[pb];B[qb];W[re];B[rc];W[oa];B[qe]C[白死，正解])
+(;W[pb];B[qb];W[pd];B[qc];W[oa];B[qe]C[白死])))
+(;W[pb]
+(;B[pc];W[oa];B[qb];W[oc];B[pd];W[od];B[ne];W[oe];B[of];W[pe];B[qe]C[白死])
+(;B[oc]C[不好];W[oa];B[pc];W[qc];B[qb];W[qa]C[打劫])))
+(;B[ld]C[不好];W[ib]C[白活]))))

@@ -1,0 +1,15 @@
+(;AB[jg][ng][oh][ph][qg][qe][re][qd][od][mc][me]AW[rc][rd][pc][pb][nb][mb][pf][pg]
+[qh][qi][pj][ni][mh]C[第173题 白先
+审题：白棋要想冲出险境，绝对不能先撞气！只有保留对杀的余地，白方才能随着黑棋攻击方法的不用而选择不同的紧气对象。
+提示：第一着依然是“愚形”]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;W[oe]C[不好];B[pd];W[nd];B[ne];W[nc];B[qf]C[白死])
+(;W[of]C[正着]
+(;B[nf];W[pd];B[pe];W[oe];B[nd];W[qf];B[rg];W[rf]C[白胜])
+(;B[oe];W[nf];B[mg];W[mf];B[lg];W[lf];B[kf];W[le]
+(;B[kc];W[kd];B[jd];W[lc];B[lb];W[ld];B[jb];W[nd]C[白胜])
+(;B[kd];W[ld];B[lc];W[kc]
+(;B[jd];W[nd];B[nc];W[oc];B[kb];W[qf];B[rg];W[rf];B[sf];W[rh];B[sg];W[pd];B[pe]
+;W[ne]C[白胜])
+(;B[ke];W[nd];B[nc];W[oc];B[kb];W[jc];B[lb];W[jb]C[白胜])))))

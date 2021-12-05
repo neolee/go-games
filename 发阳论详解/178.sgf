@@ -1,0 +1,12 @@
+(;AB[qb][qc][pd][oe][nf][nd][nc][mb][mc][kb]AW[nb][ob][pb][oc][oh][mh][ld][me][ne]
+[pe][od]C[第178题  黑先
+审题：第一着黑棋必须粘上。此后，黑棋可利用巧妙的行棋次序而脱险。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[of];W[pf]
+(;B[nh]C[不好];W[og];B[ng];W[ni]C[白胜])
+(;B[pg]C[正确];W[qg];B[nh]
+(;W[ng];B[og];W[ph];B[mg];W[ni];B[lg]C[黑胜])
+(;W[ni];B[ng]
+(;W[og];B[oi];W[ph];B[mi];W[nj];B[mg];W[lh];B[lg];W[kg];B[kh];W[li];B[kf];W[jg]
+;B[lf];W[jf];B[ke]C[黑胜])
+(;W[ph];B[mg];W[lg];B[lh];W[mi];B[lf];W[kg];B[le];W[md];B[kd]C[黑胜]))))

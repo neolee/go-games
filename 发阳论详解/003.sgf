@@ -1,0 +1,14 @@
+(;AB[jb][kc][le][lf][mg][ng][og][qg][rf][qi][rd][rc][pc][oc][nc]AW[mc][nd][me][od][of][qd][qe][re]SZ[19]LB[pd:A]PL[W]C[第3题：白先
+【审题】一看就知道，白棋要想溃围而出是不可能的，只有利用黑角存在的弱点就地做活。
+〖提示〗白棋在基本图中Ａ位粘之后，即可确保中腹一眼。
+]
+
+(;W[nb]C[错误];B[ob];W[lb];B[qc]C[白死])
+(;W[qc]C[正确];B[qb];W[rb];B[sb];W[ra];B[qa]
+(;W[pb]C[错误];B[sa];W[nb];B[ob];W[pd];B[pa];W[lb];B[kb]C[白死])
+(;W[oa]C[白点在许多场合都是要点，但此刻却一丝作用也没有];B[nb];W[mb];B[na]C[白死])
+(;W[nb]C[正确];B[ob];W[oa]C[妙手]
+(;B[mb];W[pb]C[白活])
+(;B[sa];W[pd];B[pb];W[lb];B[se];W[lc];B[ld];W[md]
+(;B[pf];W[nf]C[白活，正解])
+(;B[nf];W[pf]C[白活])))))

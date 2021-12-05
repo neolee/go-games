@@ -1,0 +1,20 @@
+(;C[第34题  黑先
+审题：黑棋既要防白冲出，又要防白在角上做活。怎样才能两全其美呢？]AW[pb][pd][qd][od][md][jc]AB[lc][le][nb][oc][nf][of][qf][qg][rd]
+(;B[ld]C[不好];W[rc];B[re];W[rb];B[pc];W[qc];B[qa];W[ra]C[白活])
+(;B[nd]C[不好];W[rc];B[re];W[rb]C[白活])
+(;B[rc]C[不好]
+(;W[ld];B[kd];W[kc];B[nd];W[ne]
+(;B[mc];W[me];B[oe];W[mf]C[打劫])
+(;B[nc];W[me];B[oe];W[mc]C[对杀白胜]))
+(;W[nc];B[mc];W[nd];B[ld];W[ob];B[mb];W[rb];B[sb];W[ra];B[qc];W[qb]C[白活]))
+(;B[nc]C[正着，愚形之妙手]
+(;W[re];B[rc];W[qe];B[qb];W[pc];B[qa]C[白死])
+(;W[rc];B[re]
+(;W[pc]
+(;B[sb]C[好手];W[sc];B[rb]C[白死])
+(;B[rb]C[不好];W[sb];B[qb];W[ra];B[qa];W[pa]C[打劫]))
+(;W[rb];B[pc];W[qc]
+(;B[qa]C[恶手];W[ra];B[pa];W[ob];B[oa];W[qb];B[na];W[nd];B[mc];W[ld]C[白活])
+(;B[pa]C[妙手]
+(;W[oa];B[qa];W[ob];B[sc];W[sb];B[ra];W[ld];B[nd]C[白死])
+(;W[qa];B[oa]C[白死]))))))

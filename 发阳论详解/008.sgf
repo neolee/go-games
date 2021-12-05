@@ -1,0 +1,11 @@
+(;AB[rb][se][rf][qf][qg][pg][og][pe][od][nb][lc][mc][md][me]AW[qc][oc][pd][qe][nd][pf][of][lb][kc][kd][ld][lf][mh][oi][qi][rh]SZ[19]C[第8题：黑先
+【审题】初看黑棋已然无救，但是，了解围棋规则的人，解这道题将不费吹灰之力！
+〖提示〗你可记得围棋规则上提起过“仅有两只假眼也能活棋”吗？
+]
+;B[nf];W[oe];B[nh];W[ni];B[mb]
+(;W[kb];B[pb];W[qb];B[qa];W[ob];B[oa];W[rc];B[sc];W[rd];B[sd]
+(;W[ma];B[sa]C[黑活，正解])
+(;W[sa]C[没用];B[ma]C[黑活]))
+(;W[ob];B[kb];W[jb];B[la];W[na];B[rc];W[rd];B[sd];W[sc];B[qb];W[qa];B[pb];W[pa]
+;B[pc];W[mg];B[ng];W[ne];B[mf];W[nc];B[le];W[ke];B[kf];W[lg];B[kg];W[li];B[jc]
+;W[ic];B[jd];W[je];B[id]C[黑活]))

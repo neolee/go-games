@@ -1,0 +1,25 @@
+(;C[第30题  黑先
+审题：黑棋只有和白角对杀这一条路可走。起码，要想办法在角上弄出一个劫来。]AW[rd][qc][qe][pe][oe][od][oc][ob][nc][lc][lb][jb][ic][hb][ie][hf][kd][ke][le][lg][mh][ng][oh][qh][rg]AB[qd][pd][re][rf][qf][pf][of][nf][ne][nd][md][ld][mc][mb][nb][ka][ib][eb][jd]
+;B[rc]
+(;W[pc];B[sd]
+(;W[rb];B[sb]C[打劫])
+(;W[qd]C[不好];B[rb];W[qb];B[pa];W[oa];B[qa];W[ra];B[sa];W[sc];B[sb];W[se];B[sf];W[sg]
+;B[na]C[黑杀白]))
+(;W[sd]C[正着]
+(;B[rb]C[大恶手];W[qb];B[sc];W[pc];B[qd];W[pd];B[se];W[qd];B[qa];W[pa];B[sa];W[na]C[白连环劫杀黑]
+)
+(;B[qb]C[好棋]
+(;W[pc]C[不好]
+(;B[sb]
+(;W[ra]C[不好];B[qa];W[pa];B[qd]C[黑杀白])
+(;W[qd];B[ra];W[pa]C[白有利的缓一气劫]))
+(;B[rb]C[好手];W[qd];B[pa];W[oa];B[ra];W[pb];B[na];W[sc];B[sb];W[qa]C[白有利的缓一气劫]))
+(;W[rb]C[妙手];B[pc];W[pb];B[ra]
+(;W[sb]C[不好];B[qc];W[sc];B[qa]C[黑杀白])
+(;W[qc]C[正着];B[sb];W[sc]C[白有利的缓一气劫，正解];B[qd];W[rb];B[ph];W[pi];B[rc];W[pd];B[se];W[rb];B[rh]
+;W[ri];B[rc];W[qd];B[oa];W[rb];B[qg];W[sh];B[rc];W[pa];B[na];W[rb];B[qi];W[qj]
+;B[rc];W[sg];B[qa];W[rb];B[kc]C[不好，不是劫材];W[sa];B[kb];W[la];B[ma];W[lb];B[ja];W[jc];B[hc]
+
+(;W[id]C[不好];B[ia];W[gb];B[gc];W[fc];B[fb];W[gd];B[ga];W[hd];B[ha];W[dc];B[db]C[黑活]
+)
+(;W[gc]C[好手];B[hd];W[id];B[ia];W[gb];B[gd];W[fc]C[黑死]))))))

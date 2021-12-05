@@ -1,0 +1,24 @@
+(;C[第42题 白先
+审题：白棋单从外面压缩黑方的生存空间不行，必须从里面动手。
+提示：以往日本版本解题的重点都放在如何处理右上角的“接不归”问题上，经研究之后发现，不是那么回事。]AW[rb][sc][sd][qc][pc][oc][pe][qe][og][oh][nj][pk][ql][rk][rj][qi]AB[qj][ri][si][ph][qg][qf][re][rd][rc]
+
+(;W[rh]C[错误];B[qh];W[sh];B[pi];W[sj];B[qi]
+(;W[rg];B[sg];W[sf];B[rf];W[sg];B[ra];W[qb];B[sb]C[打劫])
+(;W[sb];B[se]C[黑活]))
+(;W[rg]C[正着];B[qb]
+(;W[sa]
+(;B[pj];W[rf];B[oi];W[ni];B[se];W[qh];B[rh];W[pg];B[pi];W[qh];B[qi];W[pf];B[qh]
+;W[sg]C[黑死])
+(;B[rf];W[sg];B[pj];W[pi];B[oi];W[oj];B[qh];W[pi];B[ni];W[mi];B[nh];W[mg]C[黑死])
+(;B[oi]
+(;W[ni];B[rf];W[rh];B[qh];W[pj];B[sg]C[黑活])
+(;W[pj];B[pi];W[ni];B[sg]
+(;W[sf];B[rh]C[打劫])
+(;W[rh];B[rf]C[黑活]))))
+(;W[pb];B[oi]
+(;W[ni]C[错误];B[rf];W[rh];B[qh];W[pj];B[se];W[sb];B[sg]C[黑活])
+(;W[rh]C[正着]
+(;B[qh];W[pj];B[pi];W[ni];B[se];W[sb]C[黑死])
+(;B[pi]
+(;W[ni]C[不好];B[rf];W[pj];B[sg]C[黑活])
+(;W[qh]C[冷静];B[ni];W[pg]C[正解]))))))

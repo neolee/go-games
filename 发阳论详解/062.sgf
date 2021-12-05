@@ -1,0 +1,19 @@
+(;C[第62题  白先
+审题：白棋要防黑借劫抵抗
+提示：白如直接拖回一子是不行的。]AB[rc][qd][pd][pe][od][oc][nc]AW[pb][mb][mc][nd][ne][oe][pf][qe][rg][qh];B[dp]
+
+(;W[rb]C[错误];B[re];W[qf];B[qb];W[qa]
+(;B[pc]C[好手];W[ob];B[nb];W[na];B[ra];W[sa];B[sc]C[打劫])
+(;B[qc]C[不好];W[na]C[黑死]))
+(;W[ob]C[错误];B[re];W[qf];B[qb]C[黑活])
+(;W[qb]C[正着];B[re];W[qf]
+(;B[ob];W[oa];B[na];W[pa];B[nb];W[rb];B[sb];W[ra];B[sc]
+(;W[rd]C[妙手]
+(;B[sd];W[qc];B[sa];W[ma]C[黑死])
+(;B[qc];W[se];B[sd];W[sf]C[黑死]))
+(;W[ma]C[不好];B[qc];W[sd];B[se];W[sf]C[黑棋先手双活]))
+(;B[rb]
+(;W[ob];B[nb];W[na]
+(;B[ra];W[qc];B[rd];W[sb];B[sc];W[se]C[黑死])
+(;B[qc];W[ra]C[黑死]))
+(;W[nb]C[不好];B[ob];W[oa];B[pa];W[qa];B[ra]C[黑活]))))

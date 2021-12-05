@@ -1,0 +1,24 @@
+(;AB[hf][gd][ic][je][jd][kg][lc][ld][lg][mh][pc][pd][ph][oi][ok][of][ng][nh][nc]
+[nb]AW[li][lh][jh][ih][ie][le][mg][mf][me][nd][od][oh][qi][qh][qg][pf][qd][qc][mi]
+C[第151题  白先
+审题：黑棋上下两方的气都很紧。白棋利用正确的次序，可望杀开一条血路。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[pe];B[oe]
+(;W[ne]C[好手]
+(;B[ni]
+(;W[oc];B[pb];W[ob];B[oa];W[qb];B[pa];W[mc];B[mb];W[na];B[ma];W[qa];B[na];W[lb]
+;B[md];W[la];B[mc];W[jf];B[kf];W[ke];B[kd]C[白死])
+(;W[jf]C[正确];B[kf];W[ke];B[jg];W[oc];B[pb];W[ob];B[oa];W[qb];B[pa];W[mc];B[mb]
+;W[na];B[ma];W[qa];B[na];W[if];B[ig];W[lb];B[md];W[la];B[mc];W[jc]C[白胜]))
+(;B[oc]
+(;W[oj]C[不好];B[og]C[好手];W[ni];B[ke];W[pg];B[md]C[白死])
+(;W[nf];B[og];W[oj];B[nj]C[白死])
+(;W[og]C[绝妙];B[pg]
+(;W[oj]
+(;B[nj]C[恶手];W[ni];B[pj];W[pi];B[oh];W[nf]C[白活])
+(;B[pj]C[不好];W[pi];B[nj];W[ni]C[白活])
+(;B[og]C[妙];W[ni];B[ke];W[pi];B[md];W[oh]C[打劫])
+(;B[ke]C[不好];W[og]C[白活]))
+(;W[nf]C[不好];B[og];W[oj];B[ke]C[白死]))))
+(;W[jf]C[好手];B[kf];W[ke];B[jg];W[ne];B[oc];W[og];B[pg];W[oj];B[og];W[if];B[ig]
+;W[hg];B[he];W[ni];B[kd];W[pi]C[白方有利的缓一气劫]))

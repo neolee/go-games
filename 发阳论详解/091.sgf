@@ -1,0 +1,19 @@
+(;C[第91题  黑先
+审题：本题很能代表《发阳论》的风格。白棋的封锁线虽然不够完整，但也还不致于一下子垮掉。黑棋真正的袭击对象是白角。
+提示：“次序”及其重要。]AB[pb][pc][pd][pe][nb][na][nf][qg]AW[mb][nc][kc][ne][of][qf][rf][qd][qc][rh][pj][oi]
+;B[nd];W[md];B[oe];W[me];B[oc];W[mc];B[pf];W[og];B[pg];W[ph];B[rg];W[sg];B[qh]
+;W[ri];B[qi];W[qj]
+(;B[qb];W[rb];B[rc];W[rd];B[sb];W[sc];B[ra];W[rc];B[se];W[sf]C[黑死])
+(;B[qe]C[不好];W[re];B[se]
+(;W[rd]C[好手];B[rb];W[qb];B[qa];W[rc];B[sc];W[sf]C[黑死])
+(;W[sf]C[不好];B[rd];W[sd];B[rc]C[黑活])
+(;W[sd]C[不好];B[sc];W[rd];B[rb];W[qb];B[qa]C[黑活]))
+(;B[se]C[妙]
+(;W[re];B[qb];W[rb];B[rc]
+(;W[sc]
+(;B[sb];W[sa];B[qa];W[oa];B[ra];W[rd];B[sb]C[打劫])
+(;B[ra]C[不好];W[sb]C[黑死]))
+(;W[rd];B[sb];W[sc];B[ra]C[打劫]))
+(;W[sd];B[rd]
+(;W[rc];B[sc];W[re];B[qe]C[打劫])
+(;W[qe]C[不好];B[qb];W[rb];B[rc]C[黑活]))))

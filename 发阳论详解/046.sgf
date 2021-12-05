@@ -1,0 +1,15 @@
+(;C[第46题  白先
+审题:白方当然不能让黑棋通连到角上去一起活。阻渡的手法种蕴藏着学问。]AW[qd][pd][od][re][ne][mf][mg][kf][je][id][ic][jb]AB[kc][kd][le][me][nc][qc][rd]
+
+(;W[ob]C[错误];B[pb];W[oc];B[rb];W[sd];B[sc]C[角上成为劫活])
+(;W[pb]C[正确];B[ob];W[oc];B[mb]
+(;W[oa]C[不好];B[na];W[pa];B[la]
+(;W[kb];B[lb];W[nd];B[md];W[nb]C[打劫])
+(;W[md];B[kb];W[nd];B[mc]C[打劫]))
+(;W[la]C[不好];B[qb]
+(;W[pc];B[pa]C[黑活])
+(;W[oa];B[na]C[打劫]))
+(;W[pa]C[妙手];B[pc];W[qb];B[rc];W[rb]
+(;B[kb];W[na]C[好手];B[nb];W[oa];B[nd];W[lc];B[oe];W[pf];B[nf];W[ng];B[og];W[pg]C[黑死，正解]
+)
+(;B[na];W[la]C[黑死]))))

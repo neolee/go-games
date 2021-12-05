@@ -1,0 +1,27 @@
+(;AB[hb][id][jc][je][kf][nd][nc][pb][me][le][ld]AW[qc][pe][qf][ne][nf][mf][md][mc]
+[kd][kc][kb][jd][ib][gb]C[第140题 黑先
+审题：这是相当出色的一道题。黑棋数子能不能脱险，关键在于能不能利用对方的弱点，造成巧妙的“接不归”。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;B[lc]C[正确];W[mb];B[lb];W[la];B[nb];W[ma]
+(;B[ke]C[正着];W[ic]
+(;B[hc]C[不好];W[hd];B[ie];W[gc]C[黑死])
+(;B[ia]C[妙手]
+(;W[hc];B[ka];W[ja];B[na]C[黑活])
+(;W[jb];B[hc];W[hd];B[ie];W[gc];B[ka];W[ja];B[na]C[黑活])
+(;W[ka];B[hc];W[jb];B[hd]
+(;W[na]
+(;B[oa]C[不好];W[ob]C[妙];B[oc];W[pc];B[qb];W[rb]C[黑死])
+(;B[ob]C[正应];W[qb];B[oa];W[od];B[ha]C[黑活黑胜]))
+(;W[ob]
+(;B[pc]C[不好]
+(;W[na]C[不好];B[oc];W[oa];B[pa];W[qb];B[ha]C[黑胜])
+(;W[qb]C[正着];B[oc]
+(;W[pd]C[不好];B[ha];W[pa];B[oa];W[qa];B[ja];W[od]C[双活])
+(;W[pa]C[正确];B[oa];W[qa];B[ha];W[na]C[打劫])))
+(;B[oc]C[不好];W[na]C[好手];B[pc];W[qb];B[oa];W[qa];B[ha];W[pa]C[打劫])
+(;B[na]C[好手];W[oc];B[od];W[pc];B[ha]C[黑胜])))))
+(;B[ie]C[不好];W[ic];B[hc];W[ha]C[黑死])
+(;B[ic]C[不好];W[ke];B[lf];W[jf];B[ie];W[kg]C[黑死]))
+(;B[mb]C[不好];W[lc];B[qb];W[rb];B[pc];W[qd];B[ic];W[jb];B[hc];W[ke];B[lf];W[jf]
+;B[ie];W[kg]C[黑死]))

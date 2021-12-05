@@ -1,0 +1,14 @@
+(;C[第35题  黑先
+审题：看起来很复杂，其实并不难。关键在于黑棋在两方面都要会用“立”的手法。]AW[qa][pb][ob][oa][oc][nc][nd][lc][kc][jb][qd][re][qg][rh]AB[qb][qc][pd][od][oe][ne][me][mc][kd][jc][ic][hc][og][ph][qi][ri][qe]
+;B[mb];W[md];B[ld]
+(;W[kb];B[ma]C[好手];W[la]
+(;B[ib];W[ja];B[ia];W[nb];B[pc]C[白死])
+(;B[lb]C[不好];W[nb]C[白活]))
+(;W[la];B[ma];W[kb];B[ib];W[ja];B[ia];W[nb];B[pc]C[白死])
+(;W[ka]
+(;B[lb]C[好手];W[kb];B[ib];W[ma];B[nb]C[白死])
+(;B[la]C[不好];W[kb];B[ib];W[ma]C[妙手];B[na];W[nb]C[打劫]))
+(;W[lb];B[ma]C[妙手];W[nb];B[ib];W[ka];B[ia]
+(;W[la];B[ja];W[na];B[mb];W[rd];B[pc];W[rb];B[rc];W[sc];B[rf];W[qf];B[sf]C[妙手];W[sg]
+;B[sd];W[pe];B[sb]C[白死])
+(;W[ja];B[pc];W[rb];B[rc]C[白死])))

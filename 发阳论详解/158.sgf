@@ -1,0 +1,19 @@
+(;AB[rc][qc][pc][ob][mb][kc][le][ne][pf][qe][qf][og][oh][qh][qi][ql][pl]AW[qd][rd]
+[re][rf][mh][mf][nf][of][rg][qg][od]C[第158题 白先
+审题：白棋要想达到逃出右方数子的目的，就非将黑棋的某一部分歼灭不可。
+提示：白棋如果善于运用“枷”的基本技术，那问题就好解决了。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[pg];B[pe];W[ph];B[pi];W[lf]C[妙手]
+(;B[ni];W[pd];B[oe];W[ld];B[md];W[mc]C[白活])
+(;B[pd];W[oi];B[ni];W[oj];B[nh]
+(;W[qj]C[妙手]
+(;B[pj];W[ok]
+(;B[pk];W[mj]C[白活])
+(;B[nj];W[nk];B[mk];W[mj];B[mi];W[lj];B[li];W[ki];B[kj];W[lk];B[kh];W[ji];B[lh]
+;W[pk]C[白活]))
+(;B[rj];W[pj];B[ri];W[mj]C[白活]))
+(;W[pk]C[不好]
+(;B[ok]C[绝妙的反击]
+(;W[nk];B[mi];W[qk];B[rk]C[白死])
+(;W[pj];B[nj]C[白死]))
+(;B[qk]C[不好];W[mj]C[白活]))))

@@ -1,0 +1,23 @@
+(;AB[lf][le][qc][pb][ob][pd][qe][qf][je][kd][kc][kb][lb][oj][qj][ph][qh]AW[mb][nb]
+[lc][oc][me][pe][nf][jb][hd][id][if][kg][pg][oh][mh][kh]C[第139题  黑先
+审题：白棋中央的联络存在缺陷。黑棋利用漂亮的妙手和正确的次序可以反败为胜。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;B[md]C[不好];W[nd];B[mf];W[ne];B[mc];W[kf]C[黑死])
+(;B[ne]C[不好]
+(;W[mf]C[不好];B[md];W[oe];B[nd];W[od];B[nc]C[黑活])
+(;W[oe]C[正确];B[nd];W[md];B[mf];W[od];B[ng];W[nc]
+(;B[mg];W[og];B[nh];W[ni];B[mi];W[lh];B[oi];W[nj];B[pf];W[of];B[ld];W[kf];B[qg]
+;W[jc];B[pc];W[jd];B[na];W[ma];B[oa];W[ke];B[nd];W[lg]C[打劫])
+(;B[of];W[pf];B[og];W[ne];B[mg];W[nh];B[ld];W[kf];B[qg];W[jc];B[pc];W[jd];B[na]
+;W[ma];B[oa];W[ke];B[la]C[打劫])))
+(;B[ng]C[正确]
+(;W[mg];B[ne]C[妙]
+(;W[oe];B[nd];W[od];B[of];W[mf];B[md]C[黑活])
+(;W[mf];B[md];W[oe];B[nd];W[od];B[nc]C[黑活]))
+(;W[mf];B[mg];W[lg];B[md]
+(;W[ne];B[nd];W[od];B[nc]C[黑活])
+(;W[nd];B[of];W[ne];B[og]C[黑活]))
+(;W[og];B[oe]
+(;W[od];B[ne];W[nd];B[pf];W[mf];B[md]C[黑活])
+(;W[ne];B[mg];W[of];B[nh]C[对杀黑胜]))))

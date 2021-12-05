@@ -1,0 +1,17 @@
+(;AB[ri][oc][re][pf][of][me][mf][mg][mh][mi][kc][nj][nk][pk][qj][rj]AW[jc][ni][oi]
+[pi][qi][pg][qg][rg][rh][lb][nd][md][ld][le][mj][li][ki][lf][kg]C[第136题  白先
+审题：白棋看似危险，实际上却有三种可以脱险的方案！本题是失败的作品。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[qe];B[qf];W[rf]
+(;B[rd]
+(;W[qd]C[好手];B[qc]
+(;W[nf]C[妙];B[og];W[ng]
+(;B[nh];W[oe];B[ne];W[od]C[对杀白胜])
+(;B[ne];W[od];B[pd];W[oe]C[白胜]))
+(;W[oe]C[第2种正解];B[pe];W[nf];B[og];W[ng];B[nh];W[pd];B[ne];W[od]C[白胜]))
+(;W[sf];B[sh];W[qc]
+(;B[qd];W[pd]C[妙]
+(;B[pc];W[ne]C[白胜])
+(;B[od];W[pc];B[rc];W[ne];B[og];W[ob];B[pe];W[rb]C[对杀白胜]))
+(;B[rc];W[qd];B[qb];W[od];B[og];W[oe];B[oh];W[ph];B[oj];W[ne];B[pj];W[nf]C[白胜])))
+(;B[qd];W[pe];B[oe];W[pd];B[od];W[pc];B[rc];W[qb];B[rb];W[ob]C[白胜]))

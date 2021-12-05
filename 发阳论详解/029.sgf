@@ -1,0 +1,17 @@
+(;C[第29题  黑先
+审题：图形小巧，看似简单。但如果要求说：劫活不行，非净活不可。这是不是就有点难了呢？
+提示：活棋的窍门在角上]AW[pa][pc][pd][od][me][ld][lc][kb]AB[lb][mc][md][ob][oc]
+(;B[mb]C[正确]
+(;W[jc];B[nd];W[ne];B[pb];W[qb];B[qc];W[rc]
+(;B[qd];W[qe];B[rb];W[rd];B[ra]
+(;W[qa];B[oa]C[黑活])
+(;W[sb];B[la];W[na];B[nb]C[黑活])
+(;W[qc];B[la];W[na];B[nb];W[oa];B[qa]C[黑活])
+(;W[la];B[qa];W[qc];B[sb]C[黑活]))
+(;B[rb]C[不好];W[qd];B[ra];W[la];B[qa];W[sb]C[打劫]))
+(;W[ne];B[jb];W[kc];B[ka]
+(;W[jc];B[ib];W[hc];B[ic];W[id];B[hd];W[ie];B[gc]C[黑活])
+(;W[ic];B[ib];W[hc];B[hb]C[黑活]))
+(;W[la];B[kc];W[jb];B[ne]C[冲破封锁]))
+(;B[nd]C[错误];W[ne];B[mb];W[la]C[好手];B[pb];W[qb];B[kc];W[jb];B[jc];W[ic];B[qc];W[rc]
+;B[qd];W[qe];B[rb];W[rd];B[ra];W[sb]C[黑死]))

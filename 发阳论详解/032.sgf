@@ -1,0 +1,20 @@
+(;C[第32题  黑先
+审题：在《发阳论》中，本题肯定应该归入简单易解的部类。尽管如此，白棋在左边和右边各有一处“先手打”，黑棋对此也要有所警惕。]AW[rc][qd][oc][ob][nb][oe]AB[lb][mc][nc][od][ne][pe][qe][rd][rf]
+(;B[qc]C[俗手];W[qb];B[rb];W[sc];B[pd];W[ra];B[pb];W[sb]C[白活])
+(;B[rb]C[正着]
+(;W[sd]
+(;B[pc]C[恶手]
+(;W[qc]C[坏棋];B[qb];W[pb];B[pd];W[re];B[sb]C[白死])
+(;W[qb]C[好手]
+(;B[qc];W[sb];B[ra];W[pb];B[pd];W[qa]C[打劫])
+(;B[sb];W[qc];B[pd];W[pb]C[白活])
+(;B[pb];W[ra]C[好手];B[sb];W[qc]
+(;B[se];W[pd];B[of];W[pa]C[白活])
+(;B[pd];W[re]C[白活]))))
+(;B[qc]C[正着];W[sb];B[qb];W[re];B[pc]C[白死]))
+(;W[pd];B[of];W[qb]
+(;B[qc]C[恶手];W[pc];B[sc];W[sb];B[sa];W[mb]C[妙];B[pa];W[qa];B[sd];W[kb];B[lc];W[la]C[白棋逃出]
+)
+(;B[sc]C[正着];W[qc];B[pa]
+(;W[qa];B[pb]C[白死])
+(;W[ra];B[sb];W[pb];B[qa]C[白死])))))

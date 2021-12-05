@@ -1,0 +1,24 @@
+(;C[第26题  白先
+审题：扩大生存空间，是白棋唯一的生路]AW[pc][pd][pe][ld][lc][lb][kb][ja][lg]AB[ia][jb][ic][kc][kd][ke][mf][mg][nd][og][qf][qe][qd][qc]
+
+(;W[nb]
+(;B[pb]C[不好];W[ob];B[qb];W[ne];B[me];W[md];B[oe];W[nc]C[白活])
+(;B[ob]C[巧妙的杀法];W[pb];B[oc];W[ne];B[me];W[md];B[nc]C[好手];W[od];B[mb];W[oa];B[na];W[pa]
+;B[mc]C[白死]))
+(;W[nc]C[错误];B[md]
+(;W[pb];B[mc];W[mb];B[nb];W[oc];B[na]C[白死])
+(;W[mc];B[pb]C[白死])
+(;W[qb]
+(;B[ob]C[不好];W[pb];B[nb];W[rc];B[ra]
+(;W[oc]C[冷静];B[rb];W[qa];B[rd];W[oa]C[白活])
+(;W[rb]C[不好];B[oc]C[白死]))
+(;B[rb]C[正应];W[ob];B[qa];W[pa];B[pb]C[成劫，白失败])))
+(;W[pb]C[绝妙]
+(;B[nc];W[nb]
+(;B[mb];W[mc];B[ob];W[ma];B[oc];W[oa];B[ne];W[ka]C[白活])
+(;B[ob];W[oc];B[mb];W[oa]C[白活])
+(;B[mc];W[mb];B[oc];W[ob]C[白活]))
+(;B[nb];W[nc];B[ne];W[mc];B[od]
+(;W[qb];B[rb];W[qa];B[oa];W[ma];B[ka];W[na];B[ob];W[oc]C[双活])
+(;W[oc]C[不好];B[qb];W[ka];B[oa]C[白死]))
+(;B[qb];W[nc];B[md];W[le];B[lf];W[nb];B[mc];W[mb];B[od];W[oc];B[of];W[ka]C[白活])))

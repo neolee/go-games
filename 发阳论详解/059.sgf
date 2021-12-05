@@ -1,0 +1,18 @@
+(;C[第59题  黑先
+审题：白棋气紧的弱点很明显。黑棋也只有吃掉挡路的白子才能活出。
+提示：即便是已吃掉对方，也万万不可大意。]AW[qb][pc][qd][ob][mb][lc][ld][qf][rf][pg][og][ng][mg][kg][if][he][ki][kj][mj][oj][qj][rj]AB[qi][qg][ph][oh][nh][mh][lh][ig][ce][hc][kc][kd][ke][kb][lb][pb]
+;B[lg]
+(;W[kf]C[不好];B[lf];W[le];B[kh];W[jh];B[jg];W[jf];B[hg]
+(;W[ih];B[mf];W[ne];B[hf];W[ie];B[ge];W[gd];B[fe];W[hd];B[gb];W[fb];B[ec];W[ed]
+;B[fd];W[gc];B[hb];W[fc];B[dd];W[eb];B[dc]C[黑杀白])
+(;W[hf];B[gg];W[ih];B[fe];W[gd];B[ec];W[gc];B[gb];W[fb];B[hb];W[ed];B[fd];W[fc]
+;B[dd];W[ff];B[gf];W[ee];B[ge]C[黑杀白]))
+(;W[lf]C[正着];B[kf];W[kh];B[mf];W[le]
+(;B[pf]C[正着];W[rg];B[qh];W[of];B[mc];W[md];B[pe]
+(;W[nf];B[ne];W[me];B[oe];W[nc];B[mf];W[nf];B[ng];W[mg]C[打劫，正解])
+(;W[ne];B[oe];W[nf];B[nd]C[黑活])
+(;W[oe];B[od]
+(;W[ne];B[nc];W[pd];B[nd]C[黑活])
+(;W[pd];B[ne];W[qe];B[nc]C[黑活])))
+(;B[ne]C[不好];W[od]C[黑死])
+(;B[mc]C[不好];W[md];B[nc];W[ne]C[黑死])))

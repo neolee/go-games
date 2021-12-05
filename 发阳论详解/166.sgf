@@ -1,0 +1,24 @@
+(;AB[oi][id][rc][qd][qe][qf][qg][pf][oc][nc][mc][lc][og][nh][md][lg][ke]AW[hc][jc]
+[kb][kd][ld][me][ne][pb][rb][qc][pe][pd][nd][ng][of][qj][pg]C[第166题  黑先
+审题：前几着是不会走错的。黑方只有和中腹白棋数子对杀这一条路。问题在于如何封住白棋。
+提示：千万不要随手叫吃。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[pc];W[qb]
+(;B[le];W[oh]
+(;B[mf]
+(;W[mh];B[oe];W[od];B[nf]C[黑活])
+(;W[nf];B[od]C[黑活])
+(;W[mg]
+(;B[ph]C[不好];W[mh];B[og];W[nf];B[od];W[oe];B[li];W[lh];B[kh];W[mi];B[mj];W[lf]
+;B[kg];W[lj];B[ki];W[nj];B[mk];W[ni]C[白逃出])
+(;B[lf]C[正确];W[oe];B[ph];W[mh];B[og];W[nf];B[je];W[kc]
+(;B[mi]C[不好];W[lh];B[ki];W[kh];B[jh];W[li];B[lj];W[mj];B[kj];W[ni];B[nj];W[oh]
+C[打劫])
+(;B[li]C[正确];W[mi];B[mj];W[lh]
+(;B[kh]C[无理];W[lj];B[ki];W[nj];B[mk];W[ni]C[黑死])
+(;B[ki]C[正应];W[kh];B[jh];W[jg];B[ih];W[kg];B[ig];W[ni];B[nj];W[oh];B[pg];W[lb]
+C[打劫])))))
+(;B[ph]C[不好];W[mh];B[ni];W[mg];B[od];W[oe];B[ki];W[kh];B[lh];W[mi];B[mj];W[li]
+;B[lj];W[lf]C[白逃出]))
+(;B[sb];W[rd];B[sd];W[na];B[ma];W[oa];B[nb];W[la];B[lb];W[ka];B[ob];W[pa];B[re]
+;W[mb]C[白方有利的缓一气劫]))

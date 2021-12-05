@@ -1,0 +1,22 @@
+(;C[第57题  黑先
+审题：黑棋的外侧封锁线没有弱点。问题是如何进攻对方。
+提示：第一步棋只有从角上开始，自外而内地压缩对方眼位。]AW[qc][qd][pd][nd][pf][pg][qg][og][oh]AB[qb][pc][oc][mc][me][mf][oe][of][nh][oi][ph][qi][oj][qk]
+
+(;B[rc]C[手法不对];W[rd];B[rb];W[rh]
+(;B[pe];W[rf];B[qe];W[sg];B[re];W[ri];B[rj];W[si]C[白活])
+(;B[rf];W[re];B[pe];W[sf];B[sg];W[sd]C[打劫]))
+(;B[rb]C[正着];W[od];B[md]
+(;W[rc];B[rh];W[rg];B[re];W[rf];B[qe];W[pe];B[sg];W[sf];B[sc]C[白死])
+(;W[rh]
+(;B[rf]C[不好];W[rc]
+(;B[pe];W[re];B[qe];W[qf];B[se];W[sd]C[打劫])
+(;B[re];W[pe]C[白活]))
+(;B[re]C[击中要害]
+(;W[rf];B[qe];W[pe]
+(;B[rd]C[好手];W[rc];B[sc]C[白死])
+(;B[rc]C[不好];W[rd];B[sd];W[sg];B[se];W[ri]C[白活]))
+(;W[rc];B[pe];W[qe];B[rf];W[ri];B[rj];W[si];B[sg]
+(;W[sd];B[sb]
+(;W[se];B[rg];W[qh];B[sc];W[rd];B[sf]C[白死])
+(;W[sc];B[rg];W[qh];B[qf];W[se];B[nc]C[白死]))
+(;W[sc];B[rg];W[qh];B[qf];W[pi];B[qj];W[se];B[ng];W[rd];B[sj];W[sd];B[sf]C[白死]))))))

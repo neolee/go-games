@@ -1,0 +1,9 @@
+(;C[第73题  黑先
+审题：面临着“倒扑”，黑方似无棋可走？意外的是，白棋此刻也正面临着绝大的危机！]AB[pd][pc][ob][nb][re][oe][mc][ld][kc][jb][ic][hc][gd][ge][gg][fg][hg][ig][ie][gi][ij][ji][jk][ll][lk][lj][li][nk][oj][ni][pi][qi][qg][pg][og][nf][me][mf][mg][mh][kh][kg][kf][ke][le][jf]AW[ki][kj][mi][mj][lh][lg][nh][ng][oh][jg][jh][ih][if][hf][je][jd][kd][lc][lb][md][nd][ne][of][pf]
+;B[lf];W[lh];B[lg];W[lh]
+(;B[le]C[正确]
+(;W[ld];B[kf];W[jf];B[mf];W[nf];B[lg];W[kh];B[mh];W[mg]C[白死])
+(;W[lf];B[ld];W[mh];B[kh]C[白死]))
+(;B[mf]C[错误]
+(;W[lf];B[nf];W[mg];B[kg];W[kh];B[ld];W[kf];B[le];W[ke]C[白活])
+(;W[nf]C[不好];B[le];W[ld];B[kf]C[白死])))

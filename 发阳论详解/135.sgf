@@ -1,0 +1,14 @@
+(;AB[rh][ri][qi][pj][nj][lj][mi][lf][rf][ne][re][qe][qd][pd][od][pb]AW[me][je][oe]
+[mg][mh][pg][qh][rg][sg][ld][mc][rd][pc][rc][qc][qb][oi][ki]C[第135题  黑先
+审题：本题日本各个版本的解答都说是黑先胜，这实在不够精确。不论黑棋怎么走，想吃掉白棋总是办不到的事情！正确的结论应该是“黑先活”
+提示：黑方活棋的办法有好几种，但问题在于要走出双方都能满意的结果才算正解。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[nd]C[好手]
+(;W[nf]C[无理];B[ob];W[oc];B[nc];W[nb];B[mb];W[na];B[ma];W[lb];B[oa];W[nb];B[of]
+;W[ng];B[pf];W[qg];B[ra];W[qa];B[sd];W[se];B[sf];W[sb]C[先手双活])
+(;W[nc]C[正应];B[ph];W[qg];B[og];W[oh]
+(;B[of]C[不好];W[pi];B[nh];W[qj];B[oj];W[rj]C[不是正解])
+(;B[ng];W[nh];B[mf];W[pi];B[jf];W[oj]C[不是正解])
+(;B[nh]C[好手];W[of];B[ng];W[nf];B[ni];W[pf];B[mf]
+(;W[kg]C[无理];B[kf];W[jf];B[kh]C[黑活])
+(;W[lh]C[正确];B[kg];W[md];B[sh];W[oc];B[sf];W[sd];B[oj];W[se]C[双活]))))

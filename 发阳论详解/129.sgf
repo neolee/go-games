@@ -1,0 +1,13 @@
+(;AB[lc][ke][kf][lf][nf][og][pe][oe][nc][oc][qc][qb][jc][kb]AW[id][ic][ib][le][md]
+[mc][pg][qf][qe][rb][mb][nb][qd][rc]C[第129题  白先
+审题：白棋虽然身陷重围，但黑棋左右两方皆有缺陷，总有一边要被白抓住。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[kd];B[jd];W[je];B[ld];W[me]
+(;B[ob];W[ka]C[好手]
+(;B[ja];W[jb];B[kc];W[la]C[白活])
+(;B[la];W[lb];B[kc];W[ja]C[白活]))
+(;B[kc]
+(;W[qa]C[好手]
+(;B[pa];W[pc];B[ob];W[pb];B[oa];W[od];B[nd];W[ne];B[pd];W[na]C[白活])
+(;B[pb];W[ob]C[白活]))
+(;W[pc]C[恶手];B[ob]C[好手];W[pb];B[oa];W[od];B[pd];W[qa];B[nd]C[白死])))

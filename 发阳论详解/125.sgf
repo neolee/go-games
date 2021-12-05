@@ -1,0 +1,27 @@
+(;AB[qd][re][qe][qh][ph][of][nf][nd][nc][ob][pb]AW[qc][rc][rd][pc][pd][nb][rh][ri]
+[qj][pi][oh][mf][le][mc]C[第125题  白先
+审题：白棋想做活已不可能，只有想办法与右边的友军取得联系。本题因有两种解法而被判为“失题”。
+提示：白棋的头一着与第二着完全可以颠倒次序！]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;W[pe]C[恶手];B[pf];W[rf];B[qf];W[se];B[rg];W[sg]C[打劫])
+(;W[rf]
+(;B[qf];W[oe]
+(;B[ne];W[pf]
+(;B[pe];W[se];B[pg];W[rg]C[白渡过，第1种正解方法])
+(;B[pg];W[rg];B[se];W[pe]C[白渡过]))
+(;B[pe];W[ne]C[好]
+(;B[od];W[oc];B[me];W[mb]C[白活])
+(;B[md];W[me];B[mb];W[od]C[白逃出])))
+(;B[se];W[pe]C[白活]))
+(;W[oe]
+(;B[ne]
+(;W[rf];B[qf];W[pf]
+(;B[pe];W[se];B[pg];W[rg]C[第2种正解方法])
+(;B[rg];W[pe]C[对杀白胜]))
+(;W[pf]C[错误];B[pe];W[rf];B[se]C[白死]))
+(;B[pe]
+(;W[mb]C[恶手];B[oc];W[ne];B[od];W[me];B[qb];W[rb];B[ra];W[qa];B[pa];W[sc]
+(;B[se];W[sa]C[打劫])
+(;B[sa];W[se];B[rf];W[md]C[打劫]))
+(;W[ne]C[正着];B[od];W[oc];B[me];W[mb]C[白活]))))

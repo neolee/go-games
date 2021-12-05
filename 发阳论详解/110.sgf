@@ -1,0 +1,19 @@
+(;AB[mc][nb][ob][oi][pi][og][oh][pf][pe][pa][pc][qd]AW[oc][oe][of][pg][qa][pb][qb]
+[qc][qf][qi][ph]C[第110题  黑先
+审题：看上去似乎不难，实际上不简单。黑棋不但需要一点想象力，行棋时次序也不能错。
+提示：利用白棋气紧的弱点。先手宽气后与中腹白4子对杀。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[pd];W[od];B[rd];W[rc]
+(;B[sc];W[sb];B[se]
+(;W[ra]C[不好];B[qg];W[qh];B[rg];W[rf];B[nf];W[sd];B[sf];W[rh];B[ne]C[黑活])
+(;W[rf]C[不好];B[qg];W[qh];B[rg];W[sf];B[sg];W[rh];B[nf];W[sd]C[打劫])
+(;W[qg]C[好手];B[rf];W[rg];B[qe];W[sg];B[nf];W[sf]C[黑死]))
+(;B[qg];W[qh];B[rg];W[re];B[rf];W[sd]C[黑死])
+(;B[rg]C[妙手]
+(;W[rf];B[qg];W[qh];B[se]
+(;W[sf];B[sg];W[rh];B[nf]C[黑活])
+(;W[sg];B[nf]C[黑活]))
+(;W[qg];B[rf]C[黑活])
+(;W[re];B[qh];W[qg];B[rf];W[rh];B[se];W[sc];B[qe];W[qh];B[sd];W[sg];B[qj]
+(;W[rj];B[nf];W[sh];B[si];W[ri];B[rk];W[qk];B[pj];W[rl];B[ne]C[黑活])
+(;W[sh];B[si]C[黑活]))))

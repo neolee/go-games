@@ -1,0 +1,22 @@
+(;AB[rb][pc][oc][oe][nf][nh][oh][pi][qi][ri][rf]AW[rc][re][qd][pd][pf][ph]C[第100题  黑先
+审题：日本各版本只提到本题的结果是打劫，却没有料想到本题还可以有第二钟解法！]
+
+(;B[qf]C[不好];W[qb];B[qc];W[sb]C[白活])
+(;B[qc]C[不好];W[sb];B[qa];W[rg]C[白活])
+(;B[qb]C[正着];W[rg];B[qf];W[qg];B[se]
+(;W[sd];B[qe];W[pe];B[rd]C[打劫])
+(;W[qe];B[sc];W[sd]C[打劫])
+(;W[rd];B[sg];W[sh];B[rh]
+(;W[sf]C[打劫])
+(;W[qe]C[不好];B[sf];W[sd];B[sf]C[白死])))
+(;B[sb]C[第2种正解方法]
+(;W[qb];B[qc];W[od];B[nd];W[nc];B[pb]C[白死])
+(;W[od];B[nd];W[nc]
+(;B[qb]C[正着];W[md];B[ne];W[nb];B[ob]C[白死])
+(;B[nb]C[不好];W[qb];B[pb];W[pa]C[白活]))
+(;W[rg];B[qf];W[qg];B[se]
+(;W[sc]C[不好];B[qc];W[qe];B[rd]C[白死])
+(;W[qc]C[正确];B[qb]
+(;W[sd];B[qe];W[pe];B[rd]C[打劫])
+(;W[sc]C[不好];B[qe];W[pe];B[rd]C[白死]))
+(;W[rd];B[sg];W[sh];B[rh];W[sf]C[打劫]))))

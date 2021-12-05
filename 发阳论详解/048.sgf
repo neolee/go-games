@@ -1,0 +1,17 @@
+(;C[第48题  黑先
+审题：看起来白棋像是活的，但是，黑方凭靠着奇想天外的一步妙手，居然可以达到净杀白棋的目的。
+提示：首先必须抱吃掉白右上方一子。]AW[rc][qe][pd][pf][rg][ri][qi][pi][pj]AB[rb][qc][oc][oe][of][me][oh][oi][oj][pk][pl][qj][rk][rh]
+
+(;B[rf]C[错误];W[pc]
+(;B[pb];W[qd]
+(;B[qb];W[qg]C[白活])
+(;B[qg];W[qb];B[qa];W[ob];B[qc];W[nc];B[od];W[mb]C[打劫]))
+(;B[rd];W[qb]C[好手]
+(;B[qd];W[re];B[sc];W[se];B[pb];W[qg]C[白活])
+(;B[sc];W[ob];B[re];W[nc]C[白活])))
+(;B[rd]C[正确];W[re]
+(;B[qg]C[恶手];W[qh];B[pg];W[sh]C[白活])
+(;B[rf]C[绝妙的一手]
+(;W[sh];B[qh];W[ph];B[qg];W[pg];B[sg];W[qf];B[rg]C[白死])
+(;W[sg];B[qg];W[pg];B[sh]C[白死]))
+(;B[qh]C[恶手];W[ph];B[qg];W[pg];B[rf];W[sg]C[白活])))

@@ -1,0 +1,19 @@
+(;C[第58题  黑先
+审题：角里没有多大的回旋余地，要想成功，必须走得精确。
+提示：关键在于黑方右边和白棋有接触的二枚棋子的连回方法。]AB[pa][nb][nc][nd][of][pf][ph][qh][re][sd]AW[rc][rd][pd][oc][pe][qg]
+(;B[qb]C[不好];W[rf];B[qe];W[qf];B[sh];W[qd];B[sf];W[sc]C[白活])
+(;B[qe]C[不好];W[qd];B[qf];W[qb]
+(;B[ra];W[ob];B[oa];W[qa]C[白活])
+(;B[rb];W[ra]C[白活]))
+(;B[rg]C[不好];W[qe];B[qb];W[rf];B[sf];W[qf];B[rh];W[sc];B[se];W[sg];B[se];W[qc];B[sf]
+;W[rb];B[ra];W[pb];B[ob]C[打劫])
+(;B[rf]C[正着]
+(;W[qb]
+(;B[rb]C[妙]
+(;W[sb];B[ra];W[pb];B[ob];W[qa];B[qe];W[qd];B[pc]C[白死])
+(;W[pb];B[sc];W[sb];B[sa];W[se];B[sf];W[qa];B[qc];W[qd];B[se]C[白死]))
+(;B[ra]C[不好];W[ob];B[oa];W[qa]C[白活]))
+(;W[ob];B[oa];W[qb];B[rb];W[ra];B[sb];W[sc];B[qd];W[qc];B[qe]C[白死])
+(;W[pb]
+(;B[rb]C[击中要害];W[sb];B[ra];W[oa];B[ob];W[qa];B[qd]C[白死])
+(;B[qa]C[不好];W[oa];B[ob];W[ra];B[qb];W[qc]C[打劫]))))

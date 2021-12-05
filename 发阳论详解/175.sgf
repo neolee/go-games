@@ -1,0 +1,15 @@
+(;AB[oj][pj][qj][nk][mj][mi][mh][nh][oh][pg][nf][pd][qd][rc]AW[rb][qb][pc][od][nc]
+[oe][ph][pi][oi][ni][nj][ok][ol][ql][rk]C[第175题  白先
+审题：白棋五个子可以逃回家去，这道题并不难。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;W[qh]C[不好];B[qg];W[rh];B[ri];W[rg];B[rf];W[rj];B[si]C[黑胜])
+(;W[ri]C[正确];B[qi];W[qh];B[rh];W[qg];B[rg];W[qf]
+(;B[pf];W[rf];B[rj]
+(;W[rd]
+(;B[re];W[qe];B[pe];W[se]C[白逃出])
+(;B[sd];W[pe];B[qe];W[re]C[白胜]))
+(;W[sg];B[si];W[qe]C[不好];B[pe];W[rd]
+(;B[se]C[白死])
+(;B[sd]C[不好];W[se]C[打劫])))
+(;B[rf];W[pf];B[rj]C[白逃出])))

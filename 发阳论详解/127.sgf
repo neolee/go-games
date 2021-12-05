@@ -1,0 +1,10 @@
+(;AB[qc][rc][rg][qg][pg][og][pf]AW[qf][rf][qd][pd][pb][oe][of][nc]C[第127题  黑先
+审题：黑棋可以就地做活，但次序必须走对。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;B[rd]C[错误];W[qe];B[pc];W[ob];B[qb];W[sb]C[黑死])
+(;B[pc]C[正确]
+(;W[oc];B[qb];W[ob];B[rd];W[re];B[sd]C[黑活])
+(;W[ob]
+(;B[sf]C[不好];W[se];B[re];W[sg];B[qe];W[rd]C[黑死])
+(;B[sd]C[好手];W[re];B[sf];W[se];B[rd];W[qe];B[od];W[pe];B[ne]C[征吃白棋]))))

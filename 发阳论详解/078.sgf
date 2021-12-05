@@ -1,0 +1,20 @@
+(;C[第78题  白先
+审题：解答本题的关键是如何压缩黑棋的眼位。注意，白棋自身也存在着气紧的弱点。
+]AB[qc][qd][nc][mc][mb][kc][ne]AW[jb][ib][id][je][ld][md][nd][pe][qe][rd][rf]
+
+(;W[rb]C[错误];B[od];W[oe];B[ob];W[na];B[kd];W[ke];B[lc];W[pd];B[oc];W[le];B[kb];W[la]
+;B[ka];W[oa];B[pb];W[pa];B[qb];W[qa];B[rc];W[sc];B[ma]C[黑活])
+(;W[oc]C[正着];B[ob];W[pc];B[pb];W[rb]
+(;B[na];W[la]C[妙手];B[qb];W[ma];B[ka];W[lb]C[黑死])
+(;B[kb]
+(;W[ka]C[好手];B[la];W[lc]
+(;B[qb];W[na];B[rc];W[sc];B[qa];W[sb];B[oa];W[lb]C[黑死])
+(;B[na];W[lb];B[qb];W[ma]C[打劫]))
+(;W[lc]C[不好];B[na]C[黑活]))
+(;B[qb]
+(;W[na]C[错误];B[rc];W[sc];B[sb];W[sa];B[qa];W[sd];B[oa];W[ma];B[lb]C[黑活])
+(;W[ma]C[妙手]
+(;B[lb]C[正应];W[oa];B[na];W[nb]C[打劫，正解];B[rc];W[sc];B[sb];W[sa];B[ra];W[qa];B[la];W[na]
+;B[pa];W[na];B[ra])
+(;B[la]C[恶手];W[na]C[妙];B[kb];W[lc];B[rc];W[sc];B[sb];W[sa];B[qa];W[sd];B[oa];W[lb]C[黑死]
+)))))

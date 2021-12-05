@@ -1,0 +1,15 @@
+(;AB[nj][rb][rc][qc][re][rf][pb][ob][oc][nb][oh][nh][lh][hc][he][id][jf][ke][le]
+[nd]AW[jb][lc][mc][nc][od][pd][pc][qb][ml][ol][oi][li][pi][me][qe][qg][ph][mg]C[第180题  黑先
+审题：为了吃掉白上方四子，黑棋必须要把己方的那一枚孤子逃出来。
+提示：借对方之势行棋是高明的策略。
+]
+AP[MultiGo:3.7.0]SZ[19]
+;B[md];W[ld];B[ne];W[mf]
+(;B[pe]C[妙];W[oe];B[nf];W[of];B[ng];W[mh];B[ni];W[mi]
+(;B[nk];W[nl];B[kc];W[kb];B[lb];W[mb];B[na];W[la];B[ib]C[黑胜])
+(;B[nl]C[恶手];W[nm];B[nk]
+(;W[mm];B[pj];W[pk];B[oj];W[qj];B[qk];W[ql];B[qi];W[rk];B[pg];W[qh];B[qf];W[pf]
+;B[og]C[黑胜])
+(;W[ok];B[lj];W[lk];B[mj];W[kj];B[ki];W[kh];B[kk];W[ji];B[ll]C[黑胜])
+(;W[mk]C[好手];B[pj];W[pk];B[oj];W[qj];B[qk];W[og];B[pl];W[mj]C[白胜])))
+(;B[of]C[不好];W[nf];B[oe];W[og]C[黑死]))

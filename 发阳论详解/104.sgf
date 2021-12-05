@@ -1,0 +1,19 @@
+(;AB[fc][gb][hd][hf][jf][kf][lg][le][ld][lc][lb][me][ne][nd][pg][qf][re][rd][qd]
+AW[rc][oc][nc][oe][pe][qe][nf][mf][lf][og][kg][ke][kd][kc][kb][ib][md]C[第104题  黑先
+审题：黑方只有冲断白棋形成对杀，才有生路。意外的是有两种解题手法可以达到同一正解目的。]
+SZ[19]
+;B[od];W[pd];B[pc];W[of]
+(;B[nb];W[ob]
+(;B[na]C[好手]
+(;W[qc];B[mc];W[pb];B[la]C[黑活，第一种正解方法])
+(;W[mc];B[mb];W[pb];B[qc];W[qb];B[rb];W[ra];B[sb];W[la];B[oa]C[黑杀白]))
+(;B[ma]C[不好];W[pa]C[好手]
+(;B[pb];W[na]C[打劫])
+(;B[na]C[不好];W[mc]C[黑死])
+(;B[mc];W[na]C[打劫])))
+(;B[na]C[妙手，第2种正解方法]
+(;W[pb];B[qc];W[mb]
+(;B[la];W[ob];B[mc];W[nb];B[qb]C[黑活])
+(;B[ma]C[不好];W[mc];B[la];W[ob];B[qb];W[oa]C[黑死]))
+(;W[mb];B[la];W[qc];B[pb]C[黑活])
+(;W[qc];B[pb]C[黑活])))

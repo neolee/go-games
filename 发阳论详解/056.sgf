@@ -1,0 +1,27 @@
+(;C[第56题  白先
+审题：题目不难，可以靠自己的力量去完成它。
+提示：先要把角上一子连回家。请注意具体联络方法！]AW[qb][qe][qf][qg][rh][pf][oe][ne][ng][nc][oc][me][le][kd][kc][kb][jc]AB[lb][lc][ld][nd][od][pd][pe][pc][pb][rf]
+
+(;W[md]C[不好];B[rb]C[好手];W[rc];B[qc];W[sb];B[ra];W[rd];B[nb];W[mb];B[ob];W[mc];B[na]C[黑活]
+)
+(;W[rb]C[不好]
+(;B[md]C[不好]
+(;W[na]C[不好]
+(;B[la]C[不好];W[ob];B[pa];W[mb]C[黑死])
+(;B[qa]C[好]
+(;W[qd];B[mb]C[黑活])
+(;W[ra];B[oa]C[打劫])))
+(;W[pa];B[oa];W[la];B[ma];W[nb]C[黑死]))
+(;B[rc]C[正着]
+(;W[qc];B[qd];W[rd];B[sb];W[sc];B[ra];W[qa];B[pa];W[sa];B[md];W[la];B[ma];W[nb]
+;B[ob]C[黑活])
+(;W[rd];B[sb];W[qc];B[qd];W[sc];B[ra]
+(;W[sa]C[打劫])
+(;W[re];B[qa];W[rc];B[md];W[pa];B[la];W[oa];B[ob];W[na];B[nb];W[sa];B[ma]C[黑活]))))
+(;W[qc]C[不好];B[qd];W[rd];B[rc];W[rb];B[sb];W[sc];B[ra]C[打劫])
+(;W[rd]C[不好];B[rc];W[rb];B[sb];W[qc];B[qd];W[sc];B[ra]C[打劫])
+(;W[rc]C[正着]
+(;B[md];W[pa];B[oa];W[la];B[ma];W[nb];B[ka];W[ja];B[qa];W[rb]C[黑死])
+(;B[nb];W[md];B[mc];W[la];B[ob];W[ma]C[黑死])
+(;B[la];W[na]C[好手];B[nb];W[ob];B[mc];W[mb];B[ma];W[nb]C[黑死])
+(;B[qa];W[ra];B[pa];W[md]C[黑死])))

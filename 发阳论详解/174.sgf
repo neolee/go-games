@@ -1,0 +1,17 @@
+(;AB[rb][rd][re][rf][pf][pg][nd][nc][mc][lb][kb][kc][ib][id][jd]AW[jc][kd][ld][lc]
+[lg][qe][pc][oc][nb][ng][of][mb]C[第174题 黑先
+审题：黑棋当然是想逃出三子并给白方以打击。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[ne]C[好手]
+(;W[nf];B[pd]C[巧妙];W[od];B[oe];W[pe];B[qd]C[黑胜])
+(;W[oe];B[lf]C[巧手]
+(;W[mf];B[le];W[me];B[md];W[ke];B[kf];W[je];B[jf]C[黑胜])
+(;W[me];B[le]C[好次序];W[ke];B[kf];W[je];B[mf];W[nf];B[md]C[黑逃出])
+(;W[kf];B[mf]C[冷静];W[ke]
+(;B[od]
+(;W[pe];B[nf];W[mg];B[pd];W[qd];B[qc];W[og];B[pb];W[ob];B[oa]C[黑胜])
+(;W[pd];B[mg]C[黑逃出]))
+(;B[nf]C[不好];W[mg];B[od];W[pd]C[白胜])))
+(;W[ic]C[绝妙]
+(;B[pd];W[hc]C[白胜])
+(;B[hc];W[oe];B[lf];W[mf];B[le];W[me];B[md];W[ke];B[kf];W[je]C[白胜])))

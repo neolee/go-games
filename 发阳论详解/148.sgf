@@ -1,0 +1,25 @@
+(;AB[ph][rd][qe][oe][od][nd][md][ld][mf][lc][ic][ib][ie]AW[jb][jc][ke][lb][mb][mc]
+[nc][oc][pd][qd][rc][qf][of][mg][ng][lg]C[第148题  黑先
+审题：黑棋必须在白空里做出点文章才行。注意，打劫可不是正解。
+提示：正确的解题方法是，制造“假双活”。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[pe];W[qg];B[rf]
+(;W[rg];B[jd];W[kd];B[kc];W[je];B[kb];W[ja];B[id];W[ka]
+(;B[rb]C[不好]
+(;W[qb];B[sc];W[qc];B[pb]
+(;W[qa]C[不好];B[nf];W[og];B[pc];W[ob];B[ra];W[pa];B[sb]C[黑活])
+(;W[pa]C[不好];B[ob];W[nb];B[la]C[黑活])
+(;W[ob];B[qa];W[pc];B[la];W[ma];B[ia];W[la];B[oa]C[打劫]))
+(;W[sd];B[qc]C[黑活]))
+(;B[pc]C[正确];W[qc];B[pb];W[ob];B[oa]C[绝妙]
+(;W[qb];B[pa]
+(;W[na];B[la];W[ma];B[ia]C[黑活])
+(;W[la];B[na]C[白死，黑活])
+(;W[qa];B[ia]C[黑活]))
+(;W[pa];B[qa];W[qb];B[pa];W[ra];B[na];W[la];B[sc]C[黑活])))
+(;W[sd];B[re];W[rg];B[jd];W[kd];B[kc];W[je];B[kb];W[ja];B[id];W[ka];B[pc];W[qc]
+;B[pb];W[ob]
+(;B[oa]C[恶手];W[pa]C[妙];B[qa];W[qb];B[pa];W[ra];B[na];W[la];B[ia];W[sb]C[黑死])
+(;B[pa]C[妙手]
+(;W[qb];B[oa];W[na];B[la];W[ma];B[ia]C[黑活])
+(;W[la];B[rb]C[黑活]))))

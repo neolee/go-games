@@ -1,0 +1,12 @@
+(;AB[qb][qc][oc][nd][nf][mf][of][qf][rg][ph][pi][ni][lh][qj][rj]AW[pd][pe][mb][ld]
+[lf][rh][qh][qg][pg][kf][ng][og]C[第152题  白先
+审题：白棋头几着很容易走对。问题在于如何利用黑角气紧的弱点出棋。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[pf];B[re];W[mg];B[lg];W[pc]
+(;B[ob];W[pb];B[pa];W[rd];B[qd];W[qe];B[rf];W[ra]C[妙]
+(;B[rc];W[qa];B[oa];W[ne];B[me];W[md];B[oe];W[od];B[nc];W[sc];B[sd];W[sb];B[rd]
+;W[sg];B[rb];W[sf];B[sa];W[qa]C[白胜])
+(;B[rb];W[qa];B[sa];W[qa];B[ra];W[sc];B[rc];W[sd];B[se];W[ne];B[me];W[md];B[oe]
+;W[od];B[nc];W[sg];B[sb];W[sd]C[白胜])
+(;B[qa]C[正确];W[rc];B[rb];W[sb];B[oa];W[se];B[sd];W[sc];B[sa]C[打劫]))
+(;B[pb];W[nc];B[nb];W[ne];B[me];W[md];B[oe];W[od];B[mc];W[le]C[白活]))

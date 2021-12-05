@@ -1,0 +1,18 @@
+(;C[第36题 白先
+审题：白棋的包围圈上存有断点，必须要补。本题有两种正解方法，“失题”了。
+提示：补断的手法大有讲究。前提是必须要补得对黑棋的做眼产生威胁。]AW[rb][rc][qd][pd][pc][pf][oe][og][me][mf][mc][ke][kf][jc][id]AB[gc][jd][ld][lc][md][ne][od][oc][qb][qc]
+
+(;W[ob]C[错误];B[kd];W[ie];B[ic];W[hc];B[ib];W[hb];B[jb];W[gd];B[mb]C[黑活])
+(;W[ib]C[第1种正解方案]
+(;B[mb]
+(;W[la]
+(;B[ka];W[kb];B[pb];W[oa];B[na];W[nb];B[lb];W[ob]C[黑死])
+(;B[kb];W[pa]C[妙手];B[ka];W[ma];B[pb];W[qa];B[na];W[nb]C[黑死]))
+(;W[pa]C[也可杀黑];B[pb];W[qa]
+(;B[kb];W[la];B[ka];W[ma];B[na];W[nb];B[lb];W[ma]C[黑死])
+(;B[ob];W[kb];B[lb];W[la];B[ma];W[nc]C[黑死])))
+(;B[pb];W[nb]C[妙手];B[mb];W[ob];B[nc];W[qa];B[kb];W[la];B[ma];W[ka]C[黑死]))
+(;W[jb]C[第2种正解方案];B[kd];W[ie];B[mb];W[la];B[pb];W[oa]
+(;B[na];W[nb];B[ka];W[kb];B[lb];W[ob]C[黑死])
+(;B[nb];W[qa]C[黑死])
+(;B[ob];W[ma]C[黑死])))

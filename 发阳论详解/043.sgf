@@ -1,0 +1,10 @@
+(;C[第43题  黑先
+审题：棋形比较简单。黑方唯一要注意的是次序问题。
+提示：黑棋在上边的每一个子都有用！]AW[qb][qc][rc][pc][ob][oa]AB[ra][oc][od][nb][md][lc][jd][jc][hc][pf][qe][rd]
+;B[qa];W[mb];B[nc];W[na]
+(;B[la]C[好手]
+(;W[lb];B[pa];W[kb];B[ma];W[ka];B[ma];W[la];B[sc];W[sb];B[sd]C[白死，正解])
+(;W[sc];B[pb];W[pa];B[ma]C[白死]))
+(;B[lb]C[不好];W[pa];B[mc];W[rb]C[白活])
+(;B[pa]C[不好];W[sc]C[妙手];B[la];W[pb]C[白活])
+(;B[sc]C[不好];W[sb];B[la];W[sd]C[无法净杀]))

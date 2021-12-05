@@ -1,0 +1,16 @@
+(;AB[qi][rh][qg][pf][oe][qe][re][sd][sb][qc][pc][oc][nc][mb][lc][kc][ib]AW[jd][kd]
+[ld][ne][nf][og][qh][rg][pd][qd][qb][rd][rc][rb][ra]C[第141题 白先
+审题：白方必须在上边和右边两次施展妙手，才能冲出困境。第一次是为了先手得到一只眼；第二次是对杀的需要。
+]
+AP[MultiGo:3.7.0]SZ[19]
+;W[od];B[nd];W[pe];B[of];W[sf]C[妙手]
+(;B[ph];W[se];B[qf];W[pb];B[pa];W[ob];B[oa];W[nb];B[na];W[md];B[mc]
+(;W[jb]C[错误];B[jc];W[ic];B[kb];W[la];B[ma];W[hb];B[ja]C[白死])
+(;W[la]C[妙手]
+(;B[ma];W[jc];B[jb];W[kb]C[白活])
+(;B[ka]
+(;W[jb];B[jc];W[ic]
+(;B[ja];W[hb];B[kb];W[ma];B[lb];W[ma];B[hc];W[id];B[gc];W[qa]C[白活])
+(;B[hc];W[id];B[ia];W[qa]C[白活]))
+(;W[ma]C[错误];B[lb];W[ma];B[la];W[jb];B[jc];W[ic];B[hc];W[id];B[ia]C[白死]))))
+(;B[se];W[sc];B[qf];W[ph]C[白活]))

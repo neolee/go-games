@@ -1,0 +1,12 @@
+(;AB[lg][ie][ke][kc][lc][ne][pe][pd][oc][ob][pb]AW[rc][qd][pc][od][of][nd][md][mb]
+[lb][kb]C[第170题  白先
+审题：白棋的目标当然是要吃掉上边三个黑子，而且不能考虑在A位做劫的吃法！对于黑棋随后到来反击，白棋依靠精巧的腾挪可以渡过难关。]
+LB[qb:A]AP[MultiGo:3.7.0]SZ[19]
+;W[qc];B[mc];W[nc];B[nb];W[jc];B[jd]
+(;W[ic]C[不好];B[oe];W[le];B[me];W[ld];B[kd];W[lf];B[mf];W[kf];B[jg]C[白死])
+(;W[oe]C[不好];B[jb];W[ic];B[ib]C[白死])
+(;W[id]C[妙手];B[ic];W[jb];B[oe];W[le];B[kd];W[lf]
+(;B[kf];W[mf];B[nf];W[mg];B[mh];W[ng]C[白胜])
+(;B[mf];W[kf];B[jg];W[ld]
+(;B[hd];W[jf];B[ig];W[kg];B[kh];W[mg];B[lh];W[nf]C[白胜])
+(;B[je];W[kg];B[kh];W[lh];B[mg];W[jh];B[ki];W[jf];B[ig];W[if]C[白胜]))))

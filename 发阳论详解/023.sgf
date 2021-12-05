@@ -1,0 +1,21 @@
+(;AW[rb][rc][qd][qf][nd][md][ld][kd][kc][jc][ic][gb][ga][fa][fb][fc][eb]AB[ea][da][db][ec][dd][fd][gc][hd][je][kf][jg][me][oe][jb][kb][lc][mc][nc][pc][qb]C[第23题  白先
+审题：白棋如果冲击黑方中腹，可以先手搞出一只眼。另一只眼，就只有靠冲击上边的黑棋了。日本各个版本对本题的解答虽然都摆出了打劫活的结果，但是，他们提出的开劫方式均有误。
+提示：白棋需要利用“提子后的杀着”这一技巧。]
+;W[ne];B[nf];W[mf];B[ng];W[lf];B[lg];W[od];B[pd];W[pe];B[of];W[mg];B[mh];W[le]
+;B[nh];W[ib]
+(;B[ia];W[hc];B[gd];W[oc];B[ob]
+(;W[ja];B[ka];W[ma]C[好手];B[mb];W[pb];B[pa];W[qc];B[pb]
+(;W[ha]C[不好];B[hb];W[na];B[nb]C[不好];W[gb];B[ha];W[ga];B[oa];W[ja];B[ia];W[ha];B[ja]C[不好]
+;W[la];B[lb];W[ma];B[ra];W[sb];B[fb];W[sa]C[成紧劫，黑棋失败])
+(;W[na]
+(;B[nb]C[失误];W[la];B[hb];W[ha];B[hb];W[gb];B[ha];W[ga];B[lb];W[ja];B[ia];W[ra];B[fb]
+;W[ha];B[fa]C[这个劫黑棋负担很重，不算正解])
+(;B[la]C[正确];W[ha];B[hb];W[gb];B[ha];W[ga];B[nb];W[ja];B[ia];W[ha];B[oa];W[ja]C[黑无忧劫，正解]
+)))
+(;W[ma];B[mb];W[ja];B[ha];W[hb];B[ia];W[pb];B[pa];W[qc];B[pb];W[na];B[la];W[ha]
+;B[nb];W[ia];B[ra];W[sb];B[id];W[ka];B[lb];W[sa]C[打劫]))
+(;B[hb]C[不好];W[ja]
+(;B[lb];W[oc];B[ob];W[qa]
+(;B[pa];W[qc];B[pb];W[nb];B[ra];W[na];B[ma];W[ka]C[白活])
+(;B[nb];W[pa];B[pb];W[ma]C[白活]))
+(;B[la];W[oc];B[ob];W[qa];B[mb];W[na]C[白活])))

@@ -1,0 +1,24 @@
+(;AB[la][pb][pd][pe][qe][of][lh][kg][kf][je][jd][kd][kc][kb][lc]AW[pf][mh][lg][ki]
+[jh][if][hd][id][ib][qi][ld][mc][ke][lf][ng][lb][mb][nc][oe][ni]C[第176题  黑先
+审题：白棋的联络确实显得薄弱，但是，黑方如直接动手在A位提，以下白B、黑C、白D，黑方将白白丧失宝贵的机会。]
+LB[me:B][md:C][ne:D][le:A]AP[MultiGo:3.7.0]SZ[19]
+
+(;B[md]C[不好]
+(;W[nd]C[不好];B[me]C[好手];W[nf];B[le];W[jf];B[ne];W[od];B[og];W[pg];B[oh];W[ph]
+;B[mf];W[mg];B[oi]C[黑胜])
+(;W[le]C[不好];B[nd];W[od];B[oc];W[ne];B[nb]C[黑联络])
+(;W[me]C[好手];B[nd];W[od];B[le];W[ne]C[黑死]))
+(;B[me]C[好棋]
+(;W[le];B[md];W[ne];B[nf];W[nd];B[mf];W[mg];B[og]
+(;W[qg]
+(;B[pg]C[不好];W[qf];B[oi]
+(;W[oh];B[ph];W[pi];B[nh];W[mi];B[oj]C[打劫])
+(;W[nj]C[不好];B[oj]
+(;W[ok];B[oh]C[冷静]
+(;W[pj];B[nk];W[li];B[pk];W[ol];B[qh];W[rh];B[qj]C[黑胜])
+(;W[pk];B[oc]C[黑胜]))
+(;W[oh];B[ph];W[ok];B[nh];W[mi];B[qh];W[rh];B[rg];W[rf];B[ri];W[sg];B[qj]C[黑胜])))
+(;B[ph]C[有力];W[qh];B[oi]C[好棋];W[nj];B[oj];W[ok];B[pj];W[oh];B[nh]C[打劫，正解]))
+(;W[pg]C[不好];B[oh];W[ph];B[oi];W[oj];B[mi]C[黑胜])
+(;W[qf]C[不好];B[oh];W[oi];B[qg]C[黑胜]))
+(;W[md];B[le];W[ne];B[nf]C[黑胜])))

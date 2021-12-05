@@ -1,0 +1,16 @@
+(;AB[le][lc][mc][nd][ne][pa][qf][pe][qd][qc][qb][jd][ic]AW[jc][lb][mb][nb][pb][pc]
+[kd][kg][jf][mf][nf][pd][od][oe][og]C[第145题  黑先
+审题：题目的难度并不大。黑棋利用巧妙的行棋次序可以构成劫争。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[kc];W[jb]
+(;B[id];W[ke];B[kb];W[ka];B[ib];W[ja]
+(;B[ob]
+(;W[nc];B[la];W[ma];B[ia];W[la];B[na]C[打劫])
+(;W[oc];B[na]
+(;W[la];B[nc]C[打劫])
+(;W[nc];B[la]C[黑活])
+(;W[oa]C[打劫])))
+(;B[la]C[错误];W[ma];B[ia];W[la];B[ob];W[oc]C[黑死]))
+(;B[ke]C[错误];W[id];B[je];W[ie];B[kb];W[ib];B[hc];W[ka];B[ob];W[nc]
+(;B[la];W[ja];B[hb];W[ma]C[黑死])
+(;B[ja];W[la]C[黑死])))

@@ -1,0 +1,15 @@
+(;AB[rc][rg][ri][pg][of][oe][pe][od][oc][mc]AW[pf][qf][qe][pd][qc][qb]C[第94题  黑先
+审题：棋形比较简单。与其说是在考察黑方杀棋的本领，不如说是在考察白棋防御的技巧。
+提示：注意白棋右边气紧。]
+
+(;B[rf]C[不好];W[rd];B[rb];W[ra];B[sb];W[re];B[pc];W[pb];B[ob];W[pa];B[qd]C[打劫])
+(;B[se]C[不好];W[rd];B[sd];W[sb]C[好手];B[sc];W[rb];B[rf];W[ob];B[nb];W[oa]C[白活])
+(;B[rd]C[要点];W[qd]
+(;B[rb]C[无理]
+(;W[re]C[不好];B[pb];W[ra];B[sb];W[sc];B[se];W[sf];B[rf];W[sd];B[se];W[sd];B[sc]
+C[白死])
+(;W[se]C[正应];B[pb];W[ra];B[sb];W[sc]C[白活]))
+(;B[rf]C[不好];W[re];B[se];W[sd];B[sc];W[sf];B[sg];W[rb];B[sb];W[qg];B[qh];W[ph]
+;B[og];W[ra];B[sf];W[sa];B[sd];W[rh];B[sh];W[qi]C[打劫])
+(;B[re]C[正着];W[rf];B[sf];W[se];B[sd];W[rb];B[sb];W[qg];B[qh];W[ph];B[og];W[sa]
+;B[ra];W[qa];B[pi];W[sa]C[黑有利的两手劫，正解])))

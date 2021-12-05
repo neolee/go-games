@@ -1,0 +1,14 @@
+(;AB[cd][rb][pb][pc][pd][qf][md][kd][ld][jd][id][ic][ib][ge][ec]AW[hb][hc][he][hf]
+[ia][jb][jc][je][lf][og][nf][pa][kc][lc][mc][ob][oc]C[第144题  黑先
+审题：这是关于对杀的题目。]
+AP[MultiGo:3.7.0]SZ[19]
+;B[hd];W[gd];B[gc];W[fd];B[gb];W[ha]
+(;B[nd];W[od];B[oe];W[ne]
+(;B[nc];W[nb];B[mb]
+(;W[ma]C[正确];B[ka];W[la];B[ja];W[kb];B[ja];W[ka];B[ga];W[ja];B[qa]
+(;W[pe]C[不好];B[na]C[黑胜])
+(;W[lb]C[不好];B[oa];W[pe];B[pa];W[of];B[na]C[黑胜])
+(;W[na]C[正确];B[pe];W[ke]C[黑方有利的缓一气劫]))
+(;W[lb]C[错误];B[ma];W[la];B[ja];W[ka];B[ga]C[黑活]))
+(;B[ja]C[错误];W[ka];B[nc];W[nb];B[mb];W[ma];B[lb];W[pe]C[黑死]))
+(;B[od]C[不好];W[nd];B[ne];W[nc]C[黑死]))

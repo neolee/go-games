@@ -1,0 +1,9 @@
+(;C[第70题  白先
+审题：黑棋在角上只要一提就可活棋。白方无论如何要先避开这种变化。]AB[sb][ra][qb][pb][pc][oc][od][nd][le][ke][jd][jc][kb][la]AW[ma][na][oa][pa][qa][rb][ob][nb][mb][lb][kc][nc][ic][id][kd][ld][je][qd][pe][pf][nf][me]
+;B[dp];W[rc];B[lc]
+(;W[mc];B[md];W[jb];B[lc]
+(;W[mb]C[正着];B[mc];W[nb];B[lb];W[qa]
+(;B[pa];W[ma]C[黑死])
+(;B[na];W[pa]C[黑死]))
+(;W[mc]C[不好];B[mb]C[打劫]))
+(;W[jb]C[恶手];B[mc]C[黑活]))

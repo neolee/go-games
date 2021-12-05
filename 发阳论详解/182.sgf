@@ -1,0 +1,17 @@
+(;AB[jp][kq][lq][mq][op][qp][rn][rk][pl][nn][nm][ml][ll][nj][oj][li][ki][bc][ad]
+[be][de][df][cg][bh][bi][ci][dk][dl][dq][dr][fr][gr][hr][ir][jq][hd][he][fg][eh]
+[gi][hj][ik][il][jl][gl][gm][gn][fn][hn][in][hp][lo][pk][jh][ig][jg][jf][je][mf]
+[nc][kb][jb][ib][ia][ic][hc][gc][fc][ec][fd][fe][cc][db][da]AW[if][hg][hh][ff][ef]
+[dg][bg][ch][dh][di][dj][ck][bm][cn][em][fm][ab][ac][bb][ba][cb][dc][dd][eb][fb]
+[fa][gb][hb][ha][id][jd][jc][ie][lc][nb][mb][pc][pe][qh][oh][rq][qq][pq][oq][kp]
+[no][mo][mn][ol][cq][eq][gq][iq][ip][io][jo][jn][km][kk][kj][ji][ii][ij][lj][mk]
+[nk]C[第182题 白先
+审题：本题是全局性的攻防练习题。白棋在从左上开始直到右上结束的脱逃过程中，表演出了高超的腾挪技巧。全部过程共九十三手。]
+AP[MultiGo:3.7.0]SZ[19]
+;W[ce];B[cf];W[ee];B[cd];W[ed];B[gf];W[eg];B[cj];W[fh];B[gg];W[gh];B[ei];W[ej];B[fi]
+;W[hf];B[ge];W[gj];B[fj];W[ek];B[el];W[fk];B[gk];W[fl];B[dm];W[en];B[dn];W[eo];B[do]
+;W[dp];B[cp];W[ep];B[co];W[go];B[gp];W[ho];B[fo];W[hq];B[fq];W[fp];B[gp];W[hp];B[er]
+;W[gp];B[kl];W[np];B[nq];W[oo];B[ln];W[lm];B[mm];W[lp];B[jm];W[mp];B[kn];W[ko];B[pp]
+;W[qo];B[rp];W[ro];B[so];W[po];B[sp];W[qn];B[rm];W[sn];B[sm];W[sq];B[sn];W[qm];B[ql]
+;W[om];B[pm];W[on];B[ok];W[nl];B[mj];W[lk];B[jj];W[jk];B[pn];W[jj];B[kc];W[kd];B[ld]
+;W[lg];B[lf];W[kf];B[hi];W[ih];B[kh];W[mi];B[mh];W[mg]C[白棋冲出重围])

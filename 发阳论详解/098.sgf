@@ -1,0 +1,16 @@
+(;AB[lb][la][ka][nb][qb][qd][rd][re][pe][pf][of][og][oh][ng][mg][lg][ig][ih][jj]
+[qh][qk][bb][bd][cd][dd][de][be][cf][bg][fd][gd][dk][ga][ha][ib][ic][ie][je][ke]
+[kd][ld][lc]AW[hc][hd][hb][gb][fa][hg][hf][if][jb][kb][ki][fg][eb][ec][dg][df][ch]
+[bh][cj][ck][cc][bc][ba][rb][sa][sc][rg][rk][ql][pk][qe][pd][pc][oi][nh][nf][ne]
+[nc][na][ma][mb][mc][mh][lf][le][kf]C[第98题  黑先
+审题：看起来令人眼花缭乱，实际上并不算太复杂。黑棋的目标显然是与右上的白棋对杀。关键是如何正确地收气。
+提示：白棋的首要任务，是利用“一子解双征”的手法来化解掉黑棋直接逃出的威胁。]
+;B[jf];W[jg];B[he];W[ge];B[ii];W[ij];B[kg];W[jh];B[id];W[ia];B[ja];W[jc]
+(;B[qc]C[不好];W[pb];B[ha];W[fe];B[me];W[mf];B[nd];W[md];B[od];W[qa];B[oe];W[me]
+;B[oc];W[ob];B[pa];W[oa];B[rc];W[rf];B[qf];W[se];B[rh];W[ga]C[白棋有利的缓气劫])
+(;B[pb]C[正确]
+(;W[qc]C[不好];B[rc];W[ob];B[me];W[mf];B[nd];W[md];B[od];W[oc];B[oe];W[me];B[qa]
+(;W[pa]C[不好];B[oa]C[打劫])
+(;W[rf]C[正确];B[qf];W[se];B[oa]C[打劫]))
+(;W[ob]C[好手];B[od];W[pa];B[qc];W[qa];B[ha];W[fe];B[me];W[mf];B[nd];W[md];B[rc]
+;W[ga];B[sd];W[kc]C[打劫])))

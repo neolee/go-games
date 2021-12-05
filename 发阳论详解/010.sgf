@@ -1,0 +1,15 @@
+(;AW[qc][pc][oc][mc][ne][oe][pe]AB[nc][nb][ob][lc][md][le][mg][of][pf][qe][qd]SZ[19]C[第10题：白先
+【审题】白方对黑棋外侧的缺陷，必须要加以最彻底的利用！否则无法成活。
+〖提示〗弃子是必不可少的。]
+;W[qf];B[qg];W[rf];B[rg];W[rd];B[re]
+(;W[rb]C[恶手];B[sd]
+(;W[sc]C[成劫，白失败])
+(;W[pb]C[更差];B[sb];W[rc];B[sc];W[pd];B[sf];W[nd];B[qa]C[白死]))
+(;W[sd]C[妙手]
+(;B[se]C[最强应手];W[pd];B[sf]
+(;W[sb]C[妙手]
+(;B[ra];W[rb];B[qa];W[nd];B[rc];W[qb];B[sc];W[pb];B[pa];W[sa]C[白活，正解])
+(;B[rc]C[不行];W[rb];B[pb];W[qb]C[白活])
+(;B[nd]C[不行];W[ra]C[白活]))
+(;W[rb]C[错误];B[sb];W[nd];B[rc];W[pb];B[qa]C[黑死]))
+(;B[sf];W[rb]C[白活])))

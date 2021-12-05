@@ -1,0 +1,16 @@
+(;AB[rc][rd][pd][pe][of][mg][lf][le][ld][mc][ob][kb][jc][ic]AW[qb][pc][oc][nc][me][lc][lb][ka]SZ[19]C[第7题：白先
+【审题】本题棋形需要整理，这是《发阳论》独有的解题特征。在解法上，本题可以寻找出两条同样能满足正解要求的解题思路。按照日本棋界评判死活题的规则，凡是具有双重正解答案的题目都要算作“失题”，以表示题目设计得不够成功。此后，我们还将多次遇到类似本题的情况。
+〖提示〗白棋必须利用“双提”技巧成活。
+]
+;W[md];B[nd];W[kc];B[jb];W[kd];B[je];W[rb];B[sb];W[ne];B[od]C[至此双方必然]
+(;W[nb]C[错误];B[pa]C[好手];W[pb];B[oa];W[ra];B[la]C[白死])
+(;W[pb]C[白粘似拙实巧，第种正解方案]
+(;B[oa];W[ra];B[pa];W[na]
+(;B[mb];W[ma];B[nf];W[qa];B[mf];W[nb]C[利用“双提”净活])
+(;B[la];W[mb]C[双活]))
+(;B[pa];W[na];B[oa];W[ra];B[mb];W[ma];B[nf];W[qa];B[mf];W[nb]C[白活])
+(;B[ra];W[oa];B[qa];W[nb];B[ma];W[la]C[白活])
+(;B[na];W[ra];B[pa];W[la]C[好手];B[mb];W[nb];B[oa];W[qa]C[白活]))
+(;W[ra]C[第2种正解方案];B[pa];W[pb];B[na]
+(;W[la];B[oa];W[mb]C[双活])
+(;W[nb]C[错误];B[la]C[成劫活，失败])))

@@ -1,0 +1,24 @@
+(;AW[qe][qf][oe][nf][og][le][lc][ic][mc][nc][oc]AB[pb][pd][od][nd][md][of]C[第21题  黑先
+审题：虽说是求活棋，但黑棋想要达到目的却必须学会正确地“收气”]
+(;B[qd]C[错误]
+(;W[pc];B[qc];W[ob]
+(;B[rb];W[pa];B[qa]C[打劫])
+(;B[re];W[rf];B[rd];W[rb];B[qb];W[pa]C[黑被净杀]))
+(;W[rb]C[不好];B[rc]C[好棋];W[pc];B[qb];W[qc];B[ra];W[rd];B[sb];W[re]C[黑先手活角，白棋不算成功]))
+(;B[pc]C[正着]
+(;W[ob];B[ld];W[kd];B[ke];W[lf];B[kc];W[jd];B[kb];W[lb];B[oa];W[ka];B[ma];W[jb]
+
+(;B[rc];W[qd];B[sb];W[rd];B[ra]C[黑活])
+(;B[qd]C[也可活];W[re]
+(;B[rb]
+(;W[rc];B[rd];W[sd];B[sb];W[sc];B[qc];W[se];B[pa]C[黑活])
+(;W[sc];B[rc]C[黑活]))
+(;B[rc];W[qb];B[rb];W[ra];B[qc];W[qa];B[sc]C[黑活])))
+(;W[rc]C[最顽强的抵抗];B[ld];W[kd];B[ke]
+(;W[jd]
+(;B[mf]C[巧手];W[lf];B[ng];W[pf];B[me]C[黑脱出包围])
+(;B[me]C[不好];W[lf]C[黑死]))
+(;W[lf];B[kc];W[jd];B[kb];W[lb]
+(;B[nb]C[不好];W[jb];B[ob];W[ka];B[mb];W[jc];B[rb];W[qc];B[qb];W[sb]C[黑死])
+(;B[ma]C[妙手];W[la];B[ob];W[jb];B[nb];W[jc];B[mb];W[ka];B[rb];W[qc];B[qb];W[sb];B[ra]C[黑活，正解]
+)))))

@@ -1,0 +1,26 @@
+(;AB[qg][rg][qh][qi][pi][pj][rj][oh][og][of][nd][pd][pc][qb][rb]AW[qc][qd][qe][pf]
+[pg][ph][rh][ri][oi][oj][pk][qk][qj][rk]C[第123题  黑先
+审题：黑方在对杀时需要利用一路上的巧手。另外，落子的次序也很重要。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;B[sd]C[错误]
+(;W[se]C[错];B[sh];W[sj];B[qf];W[pe];B[re];W[rd];B[sf];W[sc];B[se]C[白死])
+(;W[re]C[不对];B[sf];W[se];B[pe];W[qf];B[rc]C[白死])
+(;W[rf]C[正应];B[sf];W[qf];B[sg];W[se];B[re];W[rd]C[打劫]))
+(;B[se]C[不好]
+(;W[sf]C[不好];B[rf]
+(;W[re];B[sd];W[sc];B[sg];W[rd];B[pe]C[白死])
+(;W[sd];B[re];W[rd];B[pe];W[qf];B[sg]C[白死]))
+(;W[sd]C[正应]
+(;B[sf];W[rd]
+(;B[pe];W[qf];B[sc];W[si];B[rc];W[sg]C[打劫])
+(;B[qf];W[pe];B[re];W[si]C[打劫]))
+(;B[rd];W[re]C[打劫])))
+(;B[sf]C[对杀的妙手]
+(;W[re];B[sd];W[se];B[pe];W[qf];B[rc]C[白死])
+(;W[qf];B[se]C[白死])
+(;W[sd]
+(;B[se]C[错误];W[rd];B[qf];W[pe];B[re];W[si];B[oe];W[sg]C[打劫])
+(;B[rd]C[妙手]
+(;W[rc];B[qf];W[pe];B[re]C[白死])
+(;W[re];B[rc];W[se];B[pe]C[白死])))))

@@ -1,0 +1,17 @@
+(;AB[ra][qb][qc][rc][qe][ne][le][ld][lc][kb][ma][nb]AW[sb][rb][sc][sd][qd][rg][pf]
+[nf][od][nd][md][mb][ob]C[第128题 黑先
+审题：黑棋怎样才能逃出角上数子？如果利用打劫就简单了。一定要净活！
+提示：右边的变化不可一口气走完，要待机而动。]
+AP[MultiGo:3.7.0]SZ[19]
+
+(;B[rd]C[恶手];W[se];B[oa];W[nc];B[pb]C[打劫])
+(;B[pc]C[妙]
+(;W[pd];B[rd]
+(;W[se];B[re];W[rf];B[oa];W[nc];B[na]C[黑活])
+(;W[re];B[rf];W[sf];B[oc];W[nc];B[oa]C[黑连环劫，活]))
+(;W[nc];B[re];W[se];B[pe]
+(;W[oe];B[qg];W[qf];B[rf];W[sf];B[rh];W[sg];B[pg];W[of];B[rd]C[黑活])
+(;W[qg];B[oe];W[me];B[mf];W[of];B[la];W[na]
+(;B[rd]C[不好];W[rf];B[pd];W[pa];B[pb];W[oc];B[mc];W[qf];B[lb];W[mg];B[lf];W[sf]
+C[打劫])
+(;B[oc]C[正确];W[rd];B[pd];W[rf];B[lb]C[对杀黑快一气])))))

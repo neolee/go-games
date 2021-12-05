@@ -1,0 +1,23 @@
+(;AW[rc][rd][qc][ob][nb]AB[mb][mc][md][oc][oe][pd][qd][re][se]C[第80题  黑先
+审题：角里空间不大，变化可不少！黑方应该把各种有利的和不利的因素都考虑进去，并尽量选择好的变化。
+提示：进攻应该从外侧开始发动。
+]
+(;B[na]C[错误];W[pb]C[白活])
+(;B[sd]C[正确]
+(;W[qb];B[na]
+(;W[oa];B[sb];W[sc];B[pb];W[pc];B[qa];W[pa];B[ra]C[白死])
+(;W[pc];B[ra];W[oa];B[qa];W[sb];B[pa];W[pb];B[sc]C[白死]))
+(;W[rb]
+(;B[pb];W[pc];B[pa]
+(;W[sc];B[ra];W[sa];B[sb]C[打劫])
+(;W[qa]C[不好];B[ra];W[sa];B[sc]C[白死]))
+(;B[sb]C[不好];W[pb]C[白活]))
+(;W[pc];B[sc];W[sb];B[rb];W[ra]C[打劫])
+(;W[sb]C[巧手]
+(;B[qb];W[rb];B[ra]
+(;W[pb];B[pa]C[打劫，正解])
+(;W[pa]C[不好];B[qa];W[na];B[pb];W[pc];B[oa]C[打劫]))
+(;B[ra];W[pb]
+(;B[qb];W[rb];B[pa];W[na];B[pc]C[打劫])
+(;B[pa]C[不好];W[qb];B[qa];W[na]C[双活])))
+(;W[pb];B[rb];W[sc];B[na];W[ra];B[qa];W[sb];B[sa]C[打劫])))

@@ -1,0 +1,10 @@
+(;AB[pa][ma][ob][oc][pc][qc][rc][qg][qi]AW[pb][qb][rb][ra][rd][qe][pf][od][nc][md]
+[mb][lb]C[第124题 黑先
+审题：本题是考核解题者会不会利用“长生”手段。在完成“长生”的准备工作时，黑棋还必须要显示出一点小小的技巧。
+提示：A位的先手立是“长生”得以出现的必要条件。]
+LB[sc:A]AP[MultiGo:3.7.0]SZ[19]
+;B[sc]
+(;W[og];B[nb];W[na];B[qa];W[oa];B[pa];W[na];B[qa]C[长生，黑活])
+(;W[nb];B[sb];W[qa];B[sa];W[qb];B[pe]C[巧手]
+(;W[oe];B[qf];W[pd];B[re]C[黑活])
+(;W[pd];B[qd];W[re];B[oe];W[nd];B[of]C[黑活])))

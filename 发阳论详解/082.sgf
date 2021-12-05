@@ -1,0 +1,22 @@
+(;C[第82题  黑先
+审题：黑方想突围是不可能的。角里倒还有施展手段的余地。]AB[pa][pb][pc][pd][pe][qf][qg][pg][qi][mb][kc]AW[mc][nc][ob][ne][of][pf][qe][re][qb][rc]
+;B[nb];W[lb];B[oc];W[ma];B[oa];W[lc]
+(;B[qd]C[错误];W[rd];B[sb];W[sc];B[rf];W[se];B[rb];W[qc];B[qa];W[ra]C[黑死])
+(;B[rb]C[错误];W[ra];B[sb]
+(;W[qc];B[qd];W[rd];B[rf];W[se];B[sc];W[qa]C[对杀差一气，黑死])
+(;W[sc]C[不好];B[rd];W[qd];B[qc]C[对杀黑胜]))
+(;B[rf]C[错误];W[se];B[rb];W[ra];B[sb];W[qc]C[黑死])
+(;B[se]C[妙手]
+(;W[sd];B[rb];W[ra];B[sb];W[qc];B[qd];W[rd];B[qa]C[黑活])
+(;W[ra];B[sb];W[qc];B[qd];W[rd];B[rf]C[对杀黑胜])
+(;W[rd];B[rb];W[ra];B[sb];W[qc];B[rf];W[sd];B[qa]C[黑活])
+(;W[qc];B[qd];W[rd];B[rf];W[sb];B[ra];W[qa];B[sd]C[黑活])
+(;W[rb];B[rf];W[sd];B[qd];W[rd];B[qa];W[ra];B[sb];W[sf];B[sg];W[la];B[sc];W[na]
+;B[qc]C[打劫])
+(;W[rf]C[正确]
+(;B[ra]
+(;W[qa];B[rd];W[qd];B[qc];W[rb];B[sc]C[打劫，正解])
+(;W[qd]C[不好];B[rb];W[qc];B[qa]
+(;W[sb];B[sd];W[sc];B[rg];W[sf];B[sg]C[黑活])
+(;W[sd];B[sb]C[黑活])))
+(;B[rb]C[恶手];W[ra];B[sb];W[qc];B[qd];W[rd];B[qa];W[sc]C[黑死]))))

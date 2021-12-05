@@ -1,0 +1,24 @@
+(;AB[jc][qd][qe][rf][rg][rh][qi][qj][ph][oh][nh][ng][of][mf][lg][kg][ld][lc]AW[ke]
+[qf][og][md][nf][ne][pe][oe][oc][jf][ig][ji][li][qg][qh][pi][mj][oj]C[第105题  白先
+审题：这是很清楚的对杀题。白棋至少也得“宽”成七气才行。
+提示：“笨着”有时候反而最妙！]
+AP[MultiGo:3.7.0]SZ[19]
+;W[le];B[me];W[mc];B[pg];W[pf]
+(;B[lb]
+(;W[qb]C[不好];B[pc];W[pb];B[od];W[nd];B[pd];W[nb];B[mb];W[og];B[oa];W[na];B[rc]
+;W[rb];B[sb]C[对杀白棋不行])
+(;W[qc]C[不好];B[pd];W[pc];B[od];W[nd];B[mb];W[nc];B[rc];W[rb];B[rd];W[nb];B[sb]
+;W[ra];B[na];W[oa];B[pb]C[黑杀白])
+(;W[pc]C[正解];B[qc];W[qb];B[rb];W[pa];B[nb];W[mb]
+(;B[ob];W[pb];B[pd];W[od]
+(;B[na];W[ma];B[nc];W[ra]
+(;B[sc];W[sa];B[sb];W[sd];B[qa];W[ra]C[白杀黑])
+(;B[sb]C[白杀黑]))
+(;B[nc];W[na]C[双活，黑死]))
+(;B[ma]
+(;W[nc];B[ob];W[na];B[oa];W[pb]C[白活])
+(;W[ob]C[不好];B[pd];W[od];B[nc]C[白死]))))
+(;B[pb];W[lb];B[kb];W[la]C[绝妙]
+(;B[jd];W[nb]C[白活])
+(;B[nb];W[kc];B[kd];W[jd];B[kc];W[ic];B[ib];W[jb];B[ja];W[ka]C[白活]))
+(;B[mb];W[nb];B[lb];W[pb];B[qb];W[oa];B[pc];W[od]C[白活]))

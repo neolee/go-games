@@ -1,0 +1,11 @@
+(;AB[ih][rd][re][qc][pc][qg][qh][ph][oh][kj][kh][lh][mh][lf][le][md][ne][nf][ng]
+AW[qd][qe][og][pg][oe][od][oc][mk][ni][nh][mg][lg][mc][lc][kd][kg][ke]C[第122题  白先
+审题：黑棋既可以在A位冲出，又要在B位顶杀白二子。请设法帮白棋找到出路。
+提示：黑棋的致命弱点是“气紧”。]
+LB[kf:A][nj:B]AP[MultiGo:3.7.0]SZ[19]
+
+(;W[kf]C[不好];B[nj];W[oi];B[oj];W[pi];B[qj];W[mi];B[mj];W[li];B[ki]C[对杀黑胜])
+(;W[jh]C[妙手]
+(;B[of];W[pf];B[pe];W[pd];B[qf];W[pe];B[nc];W[ob];B[nb];W[qb]C[好次序];B[rc];W[na]
+C[妙手];B[ma];W[nd];B[oa];W[pb]C[对杀白胜])
+(;B[ji];W[kf];B[nj];W[mi];B[mj];W[lj];B[lk];W[oj]C[白逃出])))

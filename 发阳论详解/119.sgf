@@ -1,0 +1,15 @@
+(;AB[ld][ke][je][jd][ic][id][he][ge][fc][ed][cb][dc][cd][lc][nc]AW[ec][db][hd][hc]
+[ie][if][kc][kd][mc][md][jf][kf][le][mf]C[第119题  黑先
+审题：这是有趣的对杀题。看起来似乎是黑气不足！
+提示：双方在“一路”上都会有精彩的表演！]
+AP[MultiGo:3.7.0]SZ[19]
+;B[ib];W[hb]
+(;B[ha]
+(;W[ga];B[ia];W[gb];B[lb];W[kb];B[ka];W[mb];B[la];W[ma];B[ja]C[对杀黑快一气])
+(;W[gb];B[ga]
+(;W[fb];B[lb];W[kb];B[ja];W[ka];B[la];W[mb];B[eb];W[fa]C[对杀黑胜])
+(;W[ja]
+(;B[ia]C[不好];W[fb];B[fa];W[ea];B[eb]C[打劫])
+(;B[fb]C[好手];W[ia];B[jb];W[fa];B[ka];W[kb];B[ha];W[la];B[gd]C[对杀黑胜]))))
+(;B[lb]C[恶手];W[kb];B[ha];W[gb];B[ga];W[ja];B[ia];W[fb];B[jb];W[mb];B[ka];W[la]
+;B[fa];W[ea];B[eb]C[打劫]))

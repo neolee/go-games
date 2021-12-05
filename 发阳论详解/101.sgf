@@ -1,0 +1,24 @@
+(;AB[qc][qd][qe][qf][rf][rh][qh][ob][nc][md][lc][le][mf][mg][of]AW[ne][nd][pd][pc][pb][qb][pf][qg][rg]C[第101题  白先
+审题：白必须在角上做活，利用角上的特殊性顽强抵抗，只要能弄出个劫来就算从。
+提示：右边两个白子有点“余热”，应该设法利用。]SZ[19]
+
+(;W[pg]C[不好];B[pe];W[oe];B[og];W[ph];B[sg]C[白死])
+(;W[og]C[不好];B[pe];W[nf];B[oe]C[白死])
+(;W[pe]C[正确];B[pg];W[og];B[ph];W[nf];B[ng];W[oh];B[oi];W[nh];B[mj];W[rc]
+(;B[ra]C[正着]
+(;W[rb];B[oc];W[rd];B[se];W[sd];B[sb]C[白死])
+(;W[rd]C[不好]
+(;B[rb];W[sb];B[re];W[sd]C[白活])
+(;B[re]C[好手]
+(;W[se];B[sg];W[sb]
+(;B[rb];W[qa];B[sd];W[sc];B[oc]C[白死])
+(;B[sd]C[不好];W[oc]C[白活]))
+(;W[sb];B[sd]C[白死])))
+(;W[se]C[鬼手]
+(;B[oc]C[不好];W[rd];B[sg];W[re]C[白活])
+(;B[rb]C[正应]
+(;W[sb];B[rd];W[sd]
+(;B[oc];W[sg];B[sc]C[打劫，正解])
+(;B[sg];W[oc];B[nb];W[oe];B[sc]C[打劫]))
+(;W[rd]C[不好];B[sg];W[sb];B[re]C[白死]))))
+(;B[rd]C[不好];W[sc]C[妙];B[ra];W[rb];B[oc];W[sa];B[sb];W[qa]C[白活])))

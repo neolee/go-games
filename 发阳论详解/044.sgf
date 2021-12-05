@@ -1,0 +1,26 @@
+(;AW[ra][rb][na][mb][lc][nc][nd][nf][pg][qg][rf][re]AB[nb][ob][pc][pd][rc][rd][sb][pf][qf]C[第44题  白先
+审题：看上去实在不像死棋，但白方通过巧妙的行棋次序，竟能最大限度地利用二个死子，做成“花六”杀黑！。
+提示：黑如P15刺，白可R15冲，白棋外侧的封锁网上不存在弱点。]
+
+(;W[qb]C[错误];B[pb];W[sd]
+(;B[oa]
+(;W[qd];B[qc];W[qe];B[qa]C[打劫])
+(;W[qe];B[qd]C[成“万年劫”]))
+(;B[qe]
+(;W[oe]
+(;B[oa]
+(;W[qd];B[qc];W[pe];B[qa]C[打劫])
+(;W[pe];B[qd]C[成“万年劫”]))
+(;B[pe]C[不好];W[qc];B[qd];W[oa];B[pa];W[qa]C[黑死]))
+(;W[oa]C[不好];B[pa];W[oe];B[pe];W[qc];B[qa]C[黑活])))
+(;W[pb]C[妙手]
+(;B[pa];W[qb];B[oc]
+(;W[qa];B[oa];W[sd];B[qe];W[oe];B[pe];W[qc]C[黑死])
+(;W[sd]C[也可杀黑];B[qe]
+(;W[oe];B[qc];W[pe];B[sa];W[sc];B[sb]
+(;W[sa]C[不好];B[oa];W[rg];B[qa];W[se];B[sb];W[rb];B[ra]C[打劫])
+(;W[rg]C[不好];B[se];W[sd];B[sa];W[sc];B[sb];W[sd];B[sa]C[“长生”，黑活])
+(;W[sf]C[绝妙之手];B[se];W[sd];B[sa];W[sc];B[sb];W[qa]C[黑死]))
+(;W[qc];B[qd];W[of];B[sa];W[sc];B[sb];W[sf];B[se];W[sd];B[sa];W[sc];B[sb];W[qa]C[黑死]
+)))
+(;B[qb];W[pa]C[黑死])))

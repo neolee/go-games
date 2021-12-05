@@ -1,0 +1,17 @@
+(;C[第25题  黑先
+审题：黑棋在中央可以挤出一只后手眼，所以，角上必须要做成一只先手眼，黑棋必须抢占最富有弹性的战略要点
+提示：利用角的特殊性能做活]AW[qe][pe][qg][nf][kf][je][jc][ib][lc][mc][nc]AB[kd][ld][md][nd][od][pc]
+(;B[qc]C[错误];W[rd];B[rc];W[ob];B[lf];W[lg];B[mf];W[mg];B[ke];W[jf];B[ne];W[ra]C[黑死]
+)
+(;B[rc]C[错误];W[qb];B[qc];W[pb];B[rb];W[oc];B[pd];W[rd]C[黑死])
+(;B[qb]C[正确]
+(;W[ob];B[rd];W[re];B[rc];W[mf];B[pb];W[qd];B[sb]C[黑活])
+(;W[rc]C[最强的抵抗];B[rb];W[qc];B[ob]
+(;W[oc];B[pd]
+(;W[sb];B[kc];W[kb];B[nb];W[mb];B[ma];W[lb];B[jd];W[id];B[lf];W[lg];B[mf];W[mg]
+;B[ke];W[jf];B[ne]
+(;W[na];B[ra];W[pa];B[pb]C[黑活])
+(;W[ra];B[na];W[pa];B[pb]C[黑活]))
+(;W[mf];B[kc];W[kb];B[nb];W[mb];B[ma];W[lb];B[sb];W[na];B[ra]C[妙手];W[pa];B[pb]C[黑活]
+))
+(;W[nb];B[oc];W[mf];B[sb]C[黑活]))))

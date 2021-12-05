@@ -1,0 +1,12 @@
+(;C[第27题  白先
+审题：只有利用死子才能找到出路。越是这类空间狭小的题目，越是需要出人意料的妙手！
+提示：白棋在封锁线外有个子，要想办法发挥它的威力！]AW[pc][pe][qe][od][oe][nd][mc][lc][kb][pg]AB[oc][pd][qd][qc][re][rf][pf][of][nf][le][je][jc][ic][gc]
+
+(;W[ob]C[俗手];B[pb];W[nc];B[oa];W[pc];B[nb]C[白死])
+(;W[pb];B[ob];W[pa]C[妙手]
+(;B[nb];W[qf];B[qg];W[rd];B[rc];W[ra]C[绝妙]
+(;B[qb];W[qa];B[rb];W[sd];B[oa];W[rg];B[qh]
+(;W[rh]C[好手，白活])
+(;W[sf]C[不好];B[rh]C[白死]))
+(;B[sc]C[妙手];W[mb];B[qb];W[qa];B[rb];W[nc];B[sa]C[打劫，正解]))
+(;B[qb]C[过于老实];W[nb];B[qa];W[na];B[oa];W[me];B[mf];W[la]C[白活])))
